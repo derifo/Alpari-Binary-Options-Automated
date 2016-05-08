@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfCookieForExport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CookieForExport>
+    <Name>ssid</Name>
+    <Value>a7o7g6rnqr39jaj5c0tmug5612</Value>
+    <Domain>.alpari.ru</Domain>
+    <Path>/</Path>
+  </CookieForExport>
+  <CookieForExport>
+    <Name>already_client</Name>
+    <Value>1</Value>
+    <Domain>.alpari.ru</Domain>
+    <Path>/</Path>
+  </CookieForExport>
+  <CookieForExport>
+    <Name>sid</Name>
+    <Value>sb8onhduspdehu2edvvk13f0q7</Value>
+    <Domain>.alpari.ru</Domain>
+    <Path>/</Path>
+  </CookieForExport>
+</ArrayOfCookieForExport>

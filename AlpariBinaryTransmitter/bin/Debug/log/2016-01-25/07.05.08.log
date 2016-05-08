@@ -1,0 +1,168 @@
+25/01/2016 07:05:08	Cookies imported: 
+25/01/2016 07:05:08	--------------------------
+25/01/2016 07:05:08	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:08	Cookie: ---> sid=
+25/01/2016 07:05:08	--------------------------
+25/01/2016 07:05:08	Alpari client starting!
+25/01/2016 07:05:08	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:05:08	Cookies to send: 
+25/01/2016 07:05:08	--------------------------
+25/01/2016 07:05:08	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:08	Cookie: ---> sid=
+25/01/2016 07:05:08	--------------------------
+25/01/2016 07:05:09	Cookies updated: 
+25/01/2016 07:05:09	--------------------------
+25/01/2016 07:05:09	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:09	--------------------------
+25/01/2016 07:05:09	Not logged in
+25/01/2016 07:05:09	Starting the web login process
+25/01/2016 07:05:09	Sending web request to https://www.alpari.ru/ru/login/
+25/01/2016 07:05:09	Cookies to send: 
+25/01/2016 07:05:09	--------------------------
+25/01/2016 07:05:09	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:09	--------------------------
+25/01/2016 07:05:10	Cookies not updated
+25/01/2016 07:05:10	No captcha needed
+25/01/2016 07:05:10	Sending web request to https://www.alpari.ru/ru/login/
+25/01/2016 07:05:10	Cookies to send: 
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	WebClient.Request error: Необходимо предоставить текст запроса, если задано ContentLength>0 или SendChunked==true.  Сделайте это, вызвав [Begin]GetRequestStream перед вызовом [Begin]GetResponse.
+25/01/2016 07:05:10	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:05:10	Cookies to send: 
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Cookies updated: 
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Not logged in
+25/01/2016 07:05:10	FAILED TO LOG IN. Here is the response from the server: 
+25/01/2016 07:05:10	------------------------------------------------------------
+25/01/2016 07:05:10	
+25/01/2016 07:05:10	------------------------------------------------------------
+25/01/2016 07:05:10	Error logging to website
+25/01/2016 07:05:10	Alpari client starting!
+25/01/2016 07:05:10	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:05:10	Cookies to send: 
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Cookies updated: 
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Not logged in
+25/01/2016 07:05:10	Starting the web login process
+25/01/2016 07:05:10	Sending web request to https://www.alpari.ru/ru/login/
+25/01/2016 07:05:10	Cookies to send: 
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:10	--------------------------
+25/01/2016 07:05:11	Cookies not updated
+25/01/2016 07:05:11	No captcha needed
+25/01/2016 07:05:11	Sending web request to https://www.alpari.ru/ru/login/
+25/01/2016 07:05:11	Cookies to send: 
+25/01/2016 07:05:11	--------------------------
+25/01/2016 07:05:11	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:11	--------------------------
+25/01/2016 07:05:11	WebClient.Request error: Необходимо предоставить текст запроса, если задано ContentLength>0 или SendChunked==true.  Сделайте это, вызвав [Begin]GetRequestStream перед вызовом [Begin]GetResponse.
+25/01/2016 07:05:11	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:05:11	Cookies to send: 
+25/01/2016 07:05:11	--------------------------
+25/01/2016 07:05:11	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:11	--------------------------
+25/01/2016 07:05:12	Cookies updated: 
+25/01/2016 07:05:12	--------------------------
+25/01/2016 07:05:12	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:12	--------------------------
+25/01/2016 07:05:12	Not logged in
+25/01/2016 07:05:12	FAILED TO LOG IN. Here is the response from the server: 
+25/01/2016 07:05:12	------------------------------------------------------------
+25/01/2016 07:05:12	
+25/01/2016 07:05:12	------------------------------------------------------------
+25/01/2016 07:05:12	Error logging to website
+25/01/2016 07:05:22	Not connected, reconnecting
+25/01/2016 07:05:23	Alpari client starting!
+25/01/2016 07:05:23	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:05:23	Cookies to send: 
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookies updated: 
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Not logged in
+25/01/2016 07:05:23	Starting the web login process
+25/01/2016 07:05:23	Sending web request to https://www.alpari.ru/ru/login/
+25/01/2016 07:05:23	Cookies to send: 
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookies not updated
+25/01/2016 07:05:23	No captcha needed
+25/01/2016 07:05:23	Sending web request to https://www.alpari.ru/ru/login/
+25/01/2016 07:05:23	Cookies to send: 
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	WebClient.Request error: Необходимо предоставить текст запроса, если задано ContentLength>0 или SendChunked==true.  Сделайте это, вызвав [Begin]GetRequestStream перед вызовом [Begin]GetResponse.
+25/01/2016 07:05:23	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:05:23	Cookies to send: 
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookies updated: 
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:23	--------------------------
+25/01/2016 07:05:23	Not logged in
+25/01/2016 07:05:23	FAILED TO LOG IN. Here is the response from the server: 
+25/01/2016 07:05:23	------------------------------------------------------------
+25/01/2016 07:05:23	
+25/01/2016 07:05:23	------------------------------------------------------------
+25/01/2016 07:05:23	Error logging to website
+25/01/2016 07:05:33	Not connected, reconnecting
+25/01/2016 07:05:34	Alpari client starting!
+25/01/2016 07:05:34	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:05:34	Cookies to send: 
+25/01/2016 07:05:34	--------------------------
+25/01/2016 07:05:34	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:34	--------------------------
+25/01/2016 07:05:34	Cookies updated: 
+25/01/2016 07:05:34	--------------------------
+25/01/2016 07:05:34	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:34	--------------------------
+25/01/2016 07:05:34	Not logged in
+25/01/2016 07:05:34	Starting the web login process
+25/01/2016 07:05:34	Sending web request to https://www.alpari.ru/ru/login/
+25/01/2016 07:05:34	Cookies to send: 
+25/01/2016 07:05:34	--------------------------
+25/01/2016 07:05:34	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:34	--------------------------
+25/01/2016 07:05:35	Cookies not updated
+25/01/2016 07:05:35	No captcha needed
+25/01/2016 07:05:35	Sending web request to https://www.alpari.ru/ru/login/
+25/01/2016 07:05:35	Cookies to send: 
+25/01/2016 07:05:35	--------------------------
+25/01/2016 07:05:35	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:35	--------------------------
+25/01/2016 07:05:35	WebClient.Request error: Необходимо предоставить текст запроса, если задано ContentLength>0 или SendChunked==true.  Сделайте это, вызвав [Begin]GetRequestStream перед вызовом [Begin]GetResponse.
+25/01/2016 07:05:35	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:05:35	Cookies to send: 
+25/01/2016 07:05:35	--------------------------
+25/01/2016 07:05:35	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:35	--------------------------
+25/01/2016 07:05:35	Cookies updated: 
+25/01/2016 07:05:35	--------------------------
+25/01/2016 07:05:35	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:05:35	--------------------------
+25/01/2016 07:05:35	Not logged in
+25/01/2016 07:05:35	FAILED TO LOG IN. Here is the response from the server: 
+25/01/2016 07:05:35	------------------------------------------------------------
+25/01/2016 07:05:35	
+25/01/2016 07:05:35	------------------------------------------------------------
+25/01/2016 07:05:35	Error logging to website

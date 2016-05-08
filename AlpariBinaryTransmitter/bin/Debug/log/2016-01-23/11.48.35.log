@@ -1,0 +1,16 @@
+23/01/2016 11:48:35	Alpari client starting!
+23/01/2016 11:48:35	Cookies imported: 
+23/01/2016 11:48:35	--------------------------
+23/01/2016 11:48:35	---> sid=7r6qg4p71nuq8t74otslsungo3
+23/01/2016 11:48:35	---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:48:35	---> already_client=1
+23/01/2016 11:48:35	---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:48:35	--------------------------
+23/01/2016 11:48:36	Not logged in
+23/01/2016 11:48:36	Starting the web login process
+23/01/2016 11:48:37	Need to download and recognize captcha before login
+23/01/2016 11:48:37	Downloading...
+23/01/2016 11:48:37	URL:	https://www.alpari.ru/ru/login/captcha/
+23/01/2016 11:48:37	Save to:	captcha.png
+23/01/2016 11:48:38	Starting recognizing captcha...
+23/01/2016 11:48:38	Image file: captcha.png

@@ -1,0 +1,135 @@
+04/02/2016 23:38:49	Alpari client starting!
+04/02/2016 23:38:49	Sending web request to https://my.alpari.ru/ru/
+04/02/2016 23:38:51	Logged in
+04/02/2016 23:38:51	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+04/02/2016 23:38:52	Token: 9a03cf075010e4a1cf1f9dc4157017bfbfa42b12
+04/02/2016 23:38:52	CONNECTION CLOSED
+04/02/2016 23:38:53	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+04/02/2016 23:38:53	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"+account","body":{"sid":1490266},"rid":4}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"dictionary","body":{"assets":[{"decimals":5,"name":"EURUSD","id":1},{"decimals":5,"name":"GBPUSD","id":2},{"decimals":5,"name":"USDCHF","id":3},{"decimals":3,"name":"USDJPY","id":4},{"decimals":5,"name":"USDCAD","id":5},{"decimals":5,"name":"AUDUSD","id":6},{"decimals":5,"name":"NZDUSD","id":7},{"decimals":3,"name":"EURJPY","id":10},{"decimals":5,"name":"EURGBP","id":11},{"decimals":3,"name":"GBPJPY","id":12},{"decimals":5,"name":"EURCAD","id":13},{"decimals":5,"name":"EURAUD","id":14},{"decimals":3,"name":"AUDJPY","id":15},{"decimals":5,"name":"GBPAUD","id":16},{"decimals":5,"name":"GBPCAD","id":17},{"decimals":5,"name":"GBPCHF","id":18},{"decimals":3,"name":"NZDJPY","id":19},{"decimals":3,"name":"XAUUSD","id":20},{"decimals":3,"name":"XAGUSD","id":21}],"currencies":[{"name":"EUR","id":978},{"name":"RUR","id":643},{"name":"USD","id":840},{"name":"GLD","id":10959}],"time_frames":[{"history_size":0,"period":60,"bar_size":1,"name":"1M","id":1},{"history_size":0,"period":300,"bar_size":5,"name":"5M","id":2},{"history_size":0,"period":900,"bar_size":15,"name":"15M","id":3},{"history_size":0,"period":1800,"bar_size":30,"name":"30M","id":4},{"history_size":0,"period":5,"bar_size":1,"name":"5S","id":100},{"history_size":0,"period":3600,"bar_size":60,"name":"1H","id":5},{"history_size":0,"period":7200,"bar_size":60,"name":"2H","id":6},{"history_size":0,"period":14400,"bar_size":300,"name":"4H","id":7},{"history_size":0,"period":86400,"bar_size":1800,"name":"1D","id":8}],"option_types":[{"id":1,"name":"call_put"},{"id":2,"name":"touch"},{"id":3,"name":"range"},{"id":4,"name":"spread"}],"operation_types":[{"name":"deposit","id":1},{"name":"withdrawal","id":2},{"name":"buy","id":3},{"name":"expiry","id":4},{"name":"compensation","id":7}],"directions":[{"name":"call","id":1},{"name":"put","id":2},{"name":"in","id":3},{"name":"out","id":4}],"option_states":[{"name":"approved","id":2},{"name":"started","id":3},{"name":"closed","id":6}],"option_expiry_reasons":[{"name":"time","id":1},{"name":"touch","id":2},{"name":"early","id":3}],"option_results":[{"name":"win","id":1},{"name":"loss","id":2},{"name":"parity","id":3}],"trade_settings":[{"name":"payout_win","id":1},{"name":"payout_lose","id":2},{"name":"payout_parity","id":3},{"name":"enable","id":6},{"name":"enable_permanent","id":7},{"name":"max_bet_643","id":13},{"name":"max_bet_840","id":14},{"name":"max_bet_978","id":15},{"name":"max_bet_10959","id":16},{"name":"min_bet_643","id":17},{"name":"min_bet_840","id":18},{"name":"min_bet_978","id":19},{"name":"min_bet_10959","id":20},{"name":"max_amount_active_options_643","id":21},{"name":"max_amount_active_options_840","id":22},{"name":"max_amount_active_options_978","id":23},{"name":"max_amount_active_options_10959","id":24},{"name":"early_win_percent","id":25},{"name":"early_loss_percent","id":26},{"name":"early_parity_percent","id":27}]},"rid":5}
+04/02/2016 23:38:54	Setting dictionary
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"+trade_state","body":{"sid":1490267},"rid":6}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"+trade_settings","body":{"sid":1490268},"rid":9}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"+rate","body":{"sid":1490269},"rid":10}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"account","body":{"ops_counter":{"EXPIRY":1,"DEPOSIT":2,"WITHDRAWAL":1,"COMPENSATION":0,"BUY":1},"bonus_level":"0.0","test":false,"bonus":"0.0","hold_equity":"0.00","net_equity":"295.00","create_lts":1439845906000,"equity":"295.00","client_id":11031743,"change_lts":1452642531255,"blocked":false,"hold_bonus":"0.0","id":4553886,"currency_id":840},"rid":3}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"trade_state","body":{"scheduler_lts":1454709300000,"trade_state":true},"rid":7}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"trade_settings","body":{"22":1000,"23":1000,"settings":{"1":{"11":{"8":[160],"5":[145],"6":[150],"7":[155]},"12":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"13":{"8":[160],"5":[145],"6":[150],"7":[155]},"14":{"8":[160],"5":[145],"6":[150],"7":[155]},"15":{"8":[160],"5":[145],"6":[150],"7":[155]},"16":{"8":[160],"5":[145],"6":[150],"7":[155]},"17":{"8":[160],"5":[145],"6":[150],"7":[155]},"18":{"8":[160],"5":[145],"6":[150],"7":[155]},"19":{"8":[160],"5":[145],"6":[150],"7":[155]},"1":{"1":[170],"2":[175],"3":[175],"4":[175],"5":[180],"6":[180],"7":[170],"8":[185]},"2":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"3":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"4":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"5":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"6":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"7":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"20":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"10":{"8":[185],"3":[160],"4":[160],"5":[165],"6":[170],"7":[175]},"21":{"8":[185],"4":[160],"5":[165],"6":[170],"7":[175]}},"2":{"11":{"8":[170],"7":[165]},"12":{"8":[190],"7":[180]},"13":{"8":[170],"7":[165]},"14":{"8":[170],"7":[165]},"15":{"8":[170],"7":[165]},"16":{"8":[170],"7":[165]},"17":{"8":[170],"7":[165]},"18":{"8":[170],"7":[165]},"19":{"8":[170],"7":[165]},"1":{"8":[200],"3":[170],"4":[175],"5":[190],"6":[185],"7":[190]},"2":{"8":[190],"7":[180]},"3":{"8":[190],"7":[180]},"4":{"8":[190],"7":[180]},"5":{"8":[190],"7":[180]},"6":{"8":[190],"7":[180]},"7":{"8":[190],"7":[180]},"20":{"8":[190],"7":[180]},"10":{"8":[190],"7":[180]},"21":{"8":[190],"7":[180]}},"3":{"11":{"8":[170],"7":[165]},"12":{"8":[195],"7":[185]},"13":{"8":[170],"7":[165]},"14":{"8":[170],"7":[165]},"15":{"8":[170],"7":[165]},"16":{"8":[170],"7":[165]},"17":{"8":[170],"7":[165]},"18":{"8":[170],"7":[165]},"19":{"8":[170],"7":[165]},"1":{"8":[200],"3":[190],"4":[180],"5":[185],"6":[190],"7":[195]},"2":{"8":[195],"7":[185]},"3":{"8":[195],"7":[185]},"4":{"8":[195],"7":[185]},"5":{"8":[195],"7":[185]},"6":{"8":[195],"7":[185]},"7":{"8":[195],"7":[185]},"20":{"8":[195],"7":[185]},"10":{"8":[195],"7":[185]},"21":{"8":[195],"7":[185]}},"4":{"11":{"8":[175],"7":[170]},"12":{"8":[200],"7":[195]},"13":{"8":[175],"7":[170]},"14":{"8":[175],"7":[170]},"15":{"8":[175],"7":[170]},"16":{"8":[175],"7":[170]},"17":{"8":[175],"7":[170]},"18":{"8":[175],"7":[170]},"19":{"8":[175],"7":[170]},"1":{"8":[200],"3":[180],"4":[185],"5":[190],"6":[195],"7":[200]},"2":{"8":[200],"7":[195]},"3":{"8":[200],"7":[195]},"4":{"8":[200],"7":[195]},"5":{"8":[200],"7":[195]},"6":{"8":[200],"7":[195]},"7":{"8":[200],"7":[195]},"20":{"8":[200],"7":[195]},"10":{"8":[200],"7":[195]},"21":{"8":[200],"7":[195]}}},"13":60000,"24":3000,"14":1000,"25":50,"15":1000,"26":0,"16":500,"27":0,"17":100,"18":1,"19":1,"2":0,"3":100,"group_id":1,"6":1,"8":10,"20":2,"21":60000},"rid":8}
+04/02/2016 23:38:54	PayoutLose: 0
+04/02/2016 23:38:54	PayoutParity: 100
+04/02/2016 23:38:54	PayoutWin (EURUSD - 1 min): 170
+04/02/2016 23:38:54	PayoutWin (EURUSD - 5 min): 175
+04/02/2016 23:38:54	PayoutWin (EURUSD - 15 min): 175
+04/02/2016 23:38:54	PayoutWin (EURUSD - 30 min): 175
+04/02/2016 23:38:54	PayoutWin (EURUSD - 60 min): 180
+04/02/2016 23:38:54	PayoutWin (EURUSD - 120 min): 180
+04/02/2016 23:38:54	PayoutWin (EURUSD - 240 min): 170
+04/02/2016 23:38:54	PayoutWin (EURUSD - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (EURJPY - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (EURJPY - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (EURJPY - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (EURJPY - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (EURJPY - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (EURJPY - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (EURGBP - 60 min): 145
+04/02/2016 23:38:54	PayoutWin (EURGBP - 120 min): 150
+04/02/2016 23:38:54	PayoutWin (EURGBP - 240 min): 155
+04/02/2016 23:38:54	PayoutWin (EURGBP - 1440 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPJPY - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPJPY - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPJPY - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (GBPJPY - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (GBPJPY - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (GBPJPY - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (EURCAD - 60 min): 145
+04/02/2016 23:38:54	PayoutWin (EURCAD - 120 min): 150
+04/02/2016 23:38:54	PayoutWin (EURCAD - 240 min): 155
+04/02/2016 23:38:54	PayoutWin (EURCAD - 1440 min): 160
+04/02/2016 23:38:54	PayoutWin (EURAUD - 60 min): 145
+04/02/2016 23:38:54	PayoutWin (EURAUD - 120 min): 150
+04/02/2016 23:38:54	PayoutWin (EURAUD - 240 min): 155
+04/02/2016 23:38:54	PayoutWin (EURAUD - 1440 min): 160
+04/02/2016 23:38:54	PayoutWin (AUDJPY - 60 min): 145
+04/02/2016 23:38:54	PayoutWin (AUDJPY - 120 min): 150
+04/02/2016 23:38:54	PayoutWin (AUDJPY - 240 min): 155
+04/02/2016 23:38:54	PayoutWin (AUDJPY - 1440 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPAUD - 60 min): 145
+04/02/2016 23:38:54	PayoutWin (GBPAUD - 120 min): 150
+04/02/2016 23:38:54	PayoutWin (GBPAUD - 240 min): 155
+04/02/2016 23:38:54	PayoutWin (GBPAUD - 1440 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPCAD - 60 min): 145
+04/02/2016 23:38:54	PayoutWin (GBPCAD - 120 min): 150
+04/02/2016 23:38:54	PayoutWin (GBPCAD - 240 min): 155
+04/02/2016 23:38:54	PayoutWin (GBPCAD - 1440 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPCHF - 60 min): 145
+04/02/2016 23:38:54	PayoutWin (GBPCHF - 120 min): 150
+04/02/2016 23:38:54	PayoutWin (GBPCHF - 240 min): 155
+04/02/2016 23:38:54	PayoutWin (GBPCHF - 1440 min): 160
+04/02/2016 23:38:54	PayoutWin (NZDJPY - 60 min): 145
+04/02/2016 23:38:54	PayoutWin (NZDJPY - 120 min): 150
+04/02/2016 23:38:54	PayoutWin (NZDJPY - 240 min): 155
+04/02/2016 23:38:54	PayoutWin (NZDJPY - 1440 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPUSD - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPUSD - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (GBPUSD - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (GBPUSD - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (GBPUSD - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (GBPUSD - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (XAUUSD - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (XAUUSD - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (XAUUSD - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (XAUUSD - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (XAUUSD - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (XAUUSD - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (XAGUSD - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (XAGUSD - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (XAGUSD - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (XAGUSD - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (XAGUSD - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (USDCHF - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (USDCHF - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (USDCHF - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (USDCHF - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (USDCHF - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (USDCHF - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (USDJPY - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (USDJPY - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (USDJPY - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (USDJPY - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (USDJPY - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (USDJPY - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (USDCAD - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (USDCAD - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (USDCAD - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (USDCAD - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (USDCAD - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (USDCAD - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (AUDUSD - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (AUDUSD - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (AUDUSD - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (AUDUSD - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (AUDUSD - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (AUDUSD - 1440 min): 185
+04/02/2016 23:38:54	PayoutWin (NZDUSD - 15 min): 160
+04/02/2016 23:38:54	PayoutWin (NZDUSD - 30 min): 160
+04/02/2016 23:38:54	PayoutWin (NZDUSD - 60 min): 165
+04/02/2016 23:38:54	PayoutWin (NZDUSD - 120 min): 170
+04/02/2016 23:38:54	PayoutWin (NZDUSD - 240 min): 175
+04/02/2016 23:38:54	PayoutWin (NZDUSD - 1440 min): 185
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"+option","body":{"sid":1490270},"rid":14}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"rates/history","body":{"data":[[1454612025,1.12079],[1454612040,1.1209],[1454612055,1.12089],[1454612070,1.12077],[1454612085,1.12084],[1454612100,1.12096],[1454612115,1.12084],[1454612130,1.12072],[1454612145,1.12069],[1454612160,1.12056],[1454612175,1.1207],[1454612190,1.1207],[1454612205,1.12089],[1454612220,1.12101],[1454612235,1.1211],[1454612250,1.12122],[1454612265,1.1215],[1454612280,1.12131],[1454612295,1.12121],[1454612310,1.12107],[1454612325,1.12109],[1454612340,1.1211],[1454612355,1.12108],[1454612370,1.12115],[1454612385,1.12107],[1454612400,1.12115],[1454612415,1.12116],[1454612430,1.1213],[1454612445,1.12134],[1454612460,1.12143],[1454612475,1.1214],[1454612490,1.12145],[1454612505,1.12153],[1454612520,1.12154],[1454612535,1.12136],[1454612550,1.12128],[1454612565,1.12121],[1454612580,1.12139],[1454612595,1.1215],[1454612610,1.12145],[1454612625,1.12161],[1454612640,1.12163],[1454612655,1.12151],[1454612670,1.12135],[1454612685,1.12143],[1454612700,1.12142],[1454612715,1.1214],[1454612730,1.12133],[1454612745,1.12109],[1454612760,1.12109],[1454612775,1.12136],[1454612790,1.12117],[1454612805,1.12104],[1454612820,1.12105],[1454612835,1.1211],[1454612850,1.12113],[1454612865,1.12118],[1454612880,1.12123],[1454612895,1.1213],[1454612910,1.12137],[1454612925,1.12126],[1454612940,1.1214],[1454612955,1.12136],[1454612970,1.12154],[1454612985,1.12165],[1454613000,1.12169],[1454613015,1.12161],[1454613030,1.12192],[1454613045,1.12181],[1454613060,1.12187],[1454613075,1.12167],[1454613090,1.12173],[1454613105,1.12181],[1454613120,1.12154],[1454613135,1.12138],[1454613150,1.12137],[1454613165,1.12152],[1454613180,1.12163],[1454613195,1.12158],[1454613210,1.1215],[1454613225,1.1219],[1454613240,1.12183],[1454613255,1.12186],[1454613270,1.12175],[1454613285,1.12192],[1454613300,1.12199],[1454613315,1.12209],[1454613330,1.12189],[1454613345,1.12187],[1454613360,1.12182],[1454613375,1.12175],[1454613390,1.12173],[1454613405,1.12202],[1454613420,1.12202],[1454613435,1.12201],[1454613450,1.12196],[1454613465,1.12189],[1454613480,1.12189],[1454613495,1.12184],[1454613510,1.1217],[1454613525,1.12169],[1454613540,1.12182],[1454613555,1.12177],[1454613570,1.12171],[1454613585,1.12176],[1454613600,1.12171],[1454613615,1.12197],[1454613630,1.12209],[1454613645,1.12207],[1454613660,1.1219],[1454613675,1.1219],[1454613690,1.1218],[1454613705,1.12197],[1454613720,1.12196],[1454613735,1.12197],[1454613750,1.12195],[1454613765,1.12188],[1454613780,1.12186],[1454613795,1.12198],[1454613810,1.122],[1454613825,1.1219],[1454613840,1.12181],[1454613855,1.1219],[1454613870,1.12194],[1454613885,1.12194],[1454613900,1.12184],[1454613915,1.12171],[1454613930,1.12169],[1454613945,1.12193],[1454613960,1.12202],[1454613975,1.1218],[1454613990,1.12185],[1454614005,1.12178],[1454614020,1.12188],[1454614035,1.12167],[1454614050,1.12176],[1454614065,1.12169],[1454614080,1.12179],[1454614095,1.12167],[1454614110,1.12175],[1454614125,1.12191],[1454614140,1.12191],[1454614155,1.12175],[1454614170,1.12189],[1454614185,1.12199],[1454614200,1.12192],[1454614215,1.12184],[1454614230,1.12192],[1454614245,1.12201],[1454614260,1.12211],[1454614275,1.12213],[1454614290,1.12211],[1454614305,1.12214],[1454614320,1.12214],[1454614335,1.12209],[1454614350,1.12208],[1454614365,1.12215],[1454614380,1.12203],[1454614395,1.12214],[1454614410,1.1221],[1454614425,1.12207],[1454614440,1.12184],[1454614455,1.12195],[1454614470,1.1219],[1454614485,1.12186],[1454614500,1.12191],[1454614515,1.1217],[1454614530,1.12159],[1454614545,1.12161],[1454614560,1.1217],[1454614575,1.12166],[1454614590,1.12157],[1454614605,1.12158],[1454614620,1.12157],[1454614635,1.12144],[1454614650,1.12138],[1454614665,1.1214],[1454614680,1.12144],[1454614695,1.1216],[1454614710,1.12159],[1454614725,1.12159]]},"rid":11}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"rates/last","body":{"data":[{"asset_id":1,"lts":1454614728430,"value":1.12159},{"asset_id":2,"lts":1454614727544,"value":1.46003},{"asset_id":3,"lts":1454614725339,"value":0.99297},{"asset_id":4,"lts":1454614727729,"value":116.632},{"asset_id":5,"lts":1454614729461,"value":1.37475},{"asset_id":6,"lts":1454614723017,"value":0.71979},{"asset_id":7,"lts":1454614725706,"value":0.67277},{"asset_id":10,"lts":1454614728135,"value":130.822},{"asset_id":11,"lts":1454614729413,"value":0.76814},{"asset_id":12,"lts":1454614728742,"value":170.289},{"asset_id":13,"lts":1454614727658,"value":1.54187},{"asset_id":14,"lts":1454614724254,"value":1.55782},{"asset_id":15,"lts":1454614727039,"value":83.957},{"asset_id":16,"lts":1454614727547,"value":2.02784},{"asset_id":17,"lts":1454614727132,"value":2.0071},{"asset_id":18,"lts":1454614727848,"value":1.44971},{"asset_id":19,"lts":1454614725945,"value":78.465},{"asset_id":20,"lts":1454614723539,"value":1156.49},{"asset_id":21,"lts":1454614710989,"value":14.871}]},"rid":12}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"options","body":{"data":[]},"rid":13}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"+traders_choice","body":{"sid":1490271},"rid":16}
+04/02/2016 23:38:54	Server says: {"type":"RESPONSE","action":"report","body":{"data":[{"operation":{"type_id":4,"description":"","external_id":1610075,"lts":1453445314240,"id":3229516,"result_equity":295.0,"equity":-5.0},"option":{"expiry_lts":1453445314211,"operation_expiry_id":3229516,"open_lts":1453430914211,"loss_percent":0,"expiry_rate":{"value":"1.08367","lts":1453445312196,"asset_id":1},"payout":0.0,"asset_id":1,"win_percent":175,"expiry_reason_id":1,"direction_id":1,"id":1610075,"state_id":6,"open_rate":{"value":"1.08375","lts":1453430913884,"asset_id":1},"amount":5.0,"manually":0,"operation_buy_id":3228695,"type_id":1,"expiry_real_time":0,"forecast_2":null,"forecast":null,"time_frame_id":7,"account_id":4553886,"result_id":2,"expiry_real_lts":1453445314239,"expiry_time":1453445314211,"parity_percent":100}},{"operation":{"type_id":1,"description":"IntrFr USD11031743 13255399","external_id":13255399,"lts":1452642531255,"id":3162222,"result_equity":300.0,"equity":300.0}},{"operation":{"type_id":2,"description":"IntrTo USD11031743 11944944","external_id":53391,"lts":1439854308000,"id":1994344,"result_equity":0.0,"equity":500.0}},{"operation":{"type_id":1,"description":"IntrFr USD11031743 11944673","external_id":53375,"lts":1439846061000,"id":1994343,"result_equity":500.0,"equity":500.0}}],"total":4},"rid":17}
+04/02/2016 23:39:01	Server says: {"type":"EVENT","action":"account","body":{"ops_counter":{"EXPIRY":1,"DEPOSIT":2,"WITHDRAWAL":1,"COMPENSATION":0,"BUY":2},"bonus_level":"0.0","test":false,"bonus":"0.0","hold_equity":"1.00","net_equity":"294.00","create_lts":1439845906000,"equity":"295.00","client_id":11031743,"change_lts":1452642531255,"blocked":false,"hold_bonus":"0.0","id":4553886,"currency_id":840},"rid":0,"aid":2,"sid":1490266}
+04/02/2016 23:39:01	Account Balance: 295
+04/02/2016 23:39:01	Server says: {"type":"RESPONSE","action":"option/buy","body":{"amount":"1.00","expiry_lts":1454614796525,"manually":false,"operation_buy_id":3383541,"operation_expiry_id":0,"open_lts":1454614736525,"type_id":1,"loss_percent":0,"forecast_2":null,"forecast":null,"asset_id":1,"win_percent":170,"time_frame_id":1,"direction_id":1,"account_id":4553886,"early_loss_percent":0,"early_parity_percent":0,"id":1684294,"state_id":3,"expiry_time":1454614796525,"parity_percent":100,"currency_id":0,"early_win_percent":50,"open_rate":{"lts":1454614728430,"asset_id":1,"value":"1.12159"}},"rid":21}
+04/02/2016 23:39:01	Server says: {"type":"EVENT","action":"option","body":{"amount":"1.00","expiry_lts":1454614796525,"manually":false,"operation_buy_id":3383541,"operation_expiry_id":0,"open_lts":1454614736525,"type_id":1,"loss_percent":0,"forecast_2":null,"forecast":null,"asset_id":1,"win_percent":170,"time_frame_id":1,"direction_id":1,"account_id":4553886,"early_loss_percent":0,"early_parity_percent":0,"id":1684294,"state_id":3,"expiry_time":1454614796525,"parity_percent":100,"currency_id":0,"early_win_percent":50,"open_rate":{"value":"1.12159","lts":1454614728430,"asset_id":1}},"rid":0,"aid":2,"sid":1490270}
+04/02/2016 23:39:12	Server says: {"type":"EVENT","action":"account","body":{"ops_counter":{"EXPIRY":1,"DEPOSIT":2,"WITHDRAWAL":1,"COMPENSATION":0,"BUY":3},"bonus_level":"0.0","test":false,"bonus":"0.0","hold_equity":"2.00","net_equity":"293.00","create_lts":1439845906000,"equity":"295.00","client_id":11031743,"change_lts":1452642531255,"blocked":false,"hold_bonus":"0.0","id":4553886,"currency_id":840},"rid":0,"aid":3,"sid":1490266}
+04/02/2016 23:39:12	Account Balance: 295
+04/02/2016 23:39:12	Server says: {"type":"RESPONSE","action":"option/buy","body":{"amount":"1.00","expiry_lts":1454614807527,"manually":false,"operation_buy_id":3383545,"operation_expiry_id":0,"open_lts":1454614747527,"type_id":1,"loss_percent":0,"forecast_2":null,"forecast":null,"asset_id":1,"win_percent":170,"time_frame_id":1,"direction_id":1,"account_id":4553886,"early_loss_percent":0,"early_parity_percent":0,"id":1684296,"state_id":3,"expiry_time":1454614807527,"parity_percent":100,"currency_id":0,"early_win_percent":50,"open_rate":{"lts":1454614742901,"asset_id":1,"value":"1.12155"}},"rid":26}
+04/02/2016 23:39:12	Server says: {"type":"EVENT","action":"option","body":{"amount":"1.00","expiry_lts":1454614807527,"manually":false,"operation_buy_id":3383545,"operation_expiry_id":0,"open_lts":1454614747527,"type_id":1,"loss_percent":0,"forecast_2":null,"forecast":null,"asset_id":1,"win_percent":170,"time_frame_id":1,"direction_id":1,"account_id":4553886,"early_loss_percent":0,"early_parity_percent":0,"id":1684296,"state_id":3,"expiry_time":1454614807527,"parity_percent":100,"currency_id":0,"early_win_percent":50,"open_rate":{"value":"1.12155","lts":1454614742901,"asset_id":1}},"rid":0,"aid":3,"sid":1490270}

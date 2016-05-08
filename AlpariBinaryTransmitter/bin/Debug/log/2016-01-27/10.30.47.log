@@ -1,0 +1,95 @@
+27/01/2016 10:30:47	Cookies imported: 
+27/01/2016 10:30:47	--------------------------
+27/01/2016 10:30:47	Cookie: ---> sid=4cu10khq16bv933vsfd9hkn8a1
+27/01/2016 10:30:47	Cookie: ---> ssid=u1c59vrmgpjg962odq7c5s6ot4
+27/01/2016 10:30:47	Cookie: ---> already_client=1
+27/01/2016 10:30:47	--------------------------
+27/01/2016 10:30:47	Alpari client starting!
+27/01/2016 10:30:47	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:30:47	Cookies to send: 
+27/01/2016 10:30:47	--------------------------
+27/01/2016 10:30:47	Cookie: ---> sid=4cu10khq16bv933vsfd9hkn8a1
+27/01/2016 10:30:47	Cookie: ---> ssid=u1c59vrmgpjg962odq7c5s6ot4
+27/01/2016 10:30:47	Cookie: ---> already_client=1
+27/01/2016 10:30:47	--------------------------
+27/01/2016 10:30:49	Cookies updated: 
+27/01/2016 10:30:49	--------------------------
+27/01/2016 10:30:49	Cookie: ---> ssid=u1c59vrmgpjg962odq7c5s6ot4
+27/01/2016 10:30:49	Cookie: ---> already_client=1
+27/01/2016 10:30:49	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+27/01/2016 10:30:49	--------------------------
+27/01/2016 10:30:49	Not logged in
+27/01/2016 10:30:49	Starting the web login process
+27/01/2016 10:30:49	Sending web request to https://www.alpari.ru/ru/login/
+27/01/2016 10:30:49	Cookies to send: 
+27/01/2016 10:30:49	--------------------------
+27/01/2016 10:30:49	Cookie: ---> ssid=u1c59vrmgpjg962odq7c5s6ot4
+27/01/2016 10:30:49	Cookie: ---> already_client=1
+27/01/2016 10:30:49	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+27/01/2016 10:30:49	--------------------------
+27/01/2016 10:30:50	Cookies not updated
+27/01/2016 10:30:50	No captcha needed
+27/01/2016 10:30:50	Sending web request to https://www.alpari.ru/ru/login/
+27/01/2016 10:30:50	Cookies to send: 
+27/01/2016 10:30:50	--------------------------
+27/01/2016 10:30:50	Cookie: ---> ssid=u1c59vrmgpjg962odq7c5s6ot4
+27/01/2016 10:30:50	Cookie: ---> already_client=1
+27/01/2016 10:30:50	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+27/01/2016 10:30:50	--------------------------
+27/01/2016 10:30:51	Cookies updated: 
+27/01/2016 10:30:51	--------------------------
+27/01/2016 10:30:51	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:30:51	Cookie: ---> already_client=1
+27/01/2016 10:30:51	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:30:51	--------------------------
+27/01/2016 10:30:51	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:30:51	Cookies to send: 
+27/01/2016 10:30:51	--------------------------
+27/01/2016 10:30:51	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:30:51	Cookie: ---> already_client=1
+27/01/2016 10:30:51	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:30:51	--------------------------
+27/01/2016 10:30:52	Cookies not updated
+27/01/2016 10:30:54	Logged in
+27/01/2016 10:30:54	Logged to alpari
+27/01/2016 10:30:54	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 10:30:54	Cookies to send: 
+27/01/2016 10:30:54	--------------------------
+27/01/2016 10:30:54	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:30:54	Cookie: ---> already_client=1
+27/01/2016 10:30:54	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:30:54	--------------------------
+27/01/2016 10:30:55	Cookies not updated
+27/01/2016 10:30:55	Token: aab20a1d1d60a8b2a4846bb5fbb76c76ecf1354e
+27/01/2016 10:30:56	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+27/01/2016 10:30:56	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 10:30:56	Alpari client starting!
+27/01/2016 10:30:56	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:30:56	Cookies to send: 
+27/01/2016 10:30:56	--------------------------
+27/01/2016 10:30:56	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:30:56	Cookie: ---> already_client=1
+27/01/2016 10:30:56	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:30:56	--------------------------
+27/01/2016 10:30:57	Cookies not updated
+27/01/2016 10:30:59	Logged in
+27/01/2016 10:30:59	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 10:30:59	Cookies to send: 
+27/01/2016 10:30:59	--------------------------
+27/01/2016 10:30:59	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:30:59	Cookie: ---> already_client=1
+27/01/2016 10:30:59	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:30:59	--------------------------
+27/01/2016 10:30:59	Cookies not updated
+27/01/2016 10:31:00	Token: bab19a18dc058cc6814bd30e122944a5021421b1
+27/01/2016 10:31:00	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 10:31:00	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":2}
+27/01/2016 10:31:10	Connected successfully
+27/01/2016 10:31:26	Error: An exception has occurred while receiving a message.
+27/01/2016 10:31:30	Error: An exception has occurred while receiving a message.

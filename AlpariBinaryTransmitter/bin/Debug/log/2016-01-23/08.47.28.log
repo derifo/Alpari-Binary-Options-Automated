@@ -1,0 +1,21 @@
+23/01/2016 08:47:28	Alpari client starting!
+23/01/2016 08:47:28	Cookies import error: Файл 'D:\MultiCharts_Data\AlpariBinaryTransmitter\AlpariBinaryTransmitter\AlpariBinaryTransmitter\bin\Debug\cookies.xml' не найден.
+23/01/2016 08:47:30	Not logged in
+23/01/2016 08:47:30	Starting the web login process
+23/01/2016 08:47:30	No captcha needed
+23/01/2016 08:47:34	Logged in
+23/01/2016 08:47:34	Logged to alpari
+23/01/2016 08:47:35	Token: 5ce8a8094ec1b01cf0f30e47479e94d64fd774de
+23/01/2016 08:47:36	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+23/01/2016 08:47:37	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+23/01/2016 08:47:37	Alpari client starting!
+23/01/2016 08:47:38	Logged in
+23/01/2016 08:47:39	Token: bb665c89273b36b41b2979ce1d9ed610f1e637ad
+23/01/2016 08:47:39	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+23/01/2016 08:47:39	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":2}

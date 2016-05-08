@@ -1,0 +1,26 @@
+27/01/2016 10:35:33	Cookies imported: 
+27/01/2016 10:35:33	--------------------------
+27/01/2016 10:35:33	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:35:33	Cookie: ---> already_client=1
+27/01/2016 10:35:33	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:35:33	--------------------------
+27/01/2016 10:35:33	Alpari client starting!
+27/01/2016 10:35:33	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:35:35	Logged in
+27/01/2016 10:35:35	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 10:35:36	Token: 88a742603e4002dce4928277d88d1995d1380f18
+27/01/2016 10:35:37	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+27/01/2016 10:35:37	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 10:35:37	Alpari client starting!
+27/01/2016 10:35:37	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:35:39	Logged in
+27/01/2016 10:35:39	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 10:35:39	Token: 744ec621921ffffbb668de332c69f313c8dd9530
+27/01/2016 10:35:40	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 10:35:40	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":2}

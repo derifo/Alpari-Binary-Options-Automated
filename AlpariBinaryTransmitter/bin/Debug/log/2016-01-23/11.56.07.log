@@ -1,0 +1,78 @@
+23/01/2016 11:56:07	Alpari client starting!
+23/01/2016 11:56:07	Cookies imported: 
+23/01/2016 11:56:07	--------------------------
+23/01/2016 11:56:07	Cookie: ---> sid=o4l5t7mepmns08k27uhh5v50g2
+23/01/2016 11:56:07	Cookie: ---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:56:07	Cookie: ---> already_client=1
+23/01/2016 11:56:07	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:56:07	--------------------------
+23/01/2016 11:56:07	Sending web request to https://my.alpari.ru/ru/
+23/01/2016 11:56:07	Cookies to send: 
+23/01/2016 11:56:07	--------------------------
+23/01/2016 11:56:07	Cookie: ---> sid=o4l5t7mepmns08k27uhh5v50g2
+23/01/2016 11:56:07	Cookie: ---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:56:07	Cookie: ---> already_client=1
+23/01/2016 11:56:07	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:56:07	--------------------------
+23/01/2016 11:56:09	Cookies not updated
+23/01/2016 11:56:09	Not logged in
+23/01/2016 11:56:09	Starting the web login process
+23/01/2016 11:56:09	Sending web request to https://www.alpari.ru/ru/login/
+23/01/2016 11:56:09	Cookies to send: 
+23/01/2016 11:56:09	--------------------------
+23/01/2016 11:56:09	Cookie: ---> sid=o4l5t7mepmns08k27uhh5v50g2
+23/01/2016 11:56:09	Cookie: ---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:56:09	Cookie: ---> already_client=1
+23/01/2016 11:56:09	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:56:09	--------------------------
+23/01/2016 11:56:09	Cookies not updated
+23/01/2016 11:56:09	Need to download and recognize captcha before login
+23/01/2016 11:56:09	Downloading...
+23/01/2016 11:56:09	URL:	https://www.alpari.ru/ru/login/captcha/
+23/01/2016 11:56:09	Save to:	captcha.png
+23/01/2016 11:56:09	Sending web request to https://www.alpari.ru/ru/login/captcha/
+23/01/2016 11:56:09	Cookies to send: 
+23/01/2016 11:56:09	--------------------------
+23/01/2016 11:56:09	Cookie: ---> sid=o4l5t7mepmns08k27uhh5v50g2
+23/01/2016 11:56:09	Cookie: ---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:56:09	Cookie: ---> already_client=1
+23/01/2016 11:56:09	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:56:09	--------------------------
+23/01/2016 11:56:10	Cookies not updated
+23/01/2016 11:56:10	Starting recognizing captcha...
+23/01/2016 11:56:10	Image file: captcha.png
+23/01/2016 11:56:21	Captcha code is: 34488
+23/01/2016 11:56:22	Cookies updated: 
+23/01/2016 11:56:22	--------------------------
+23/01/2016 11:56:22	Cookie: ---> sid=jrnmmtr02qmp26ko29r3ij2p24
+23/01/2016 11:56:22	Cookie: ---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:56:22	Cookie: ---> already_client=1
+23/01/2016 11:56:22	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:56:22	--------------------------
+23/01/2016 11:56:22	Sending web request to https://my.alpari.ru/ru/
+23/01/2016 11:56:22	Cookies to send: 
+23/01/2016 11:56:22	--------------------------
+23/01/2016 11:56:22	Cookie: ---> sid=jrnmmtr02qmp26ko29r3ij2p24
+23/01/2016 11:56:22	Cookie: ---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:56:22	Cookie: ---> already_client=1
+23/01/2016 11:56:22	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:56:22	--------------------------
+23/01/2016 11:56:23	Cookies not updated
+23/01/2016 11:56:23	Not logged in
+23/01/2016 11:56:23	Error logging to website
+23/01/2016 11:56:23	Alpari client starting!
+23/01/2016 11:56:23	Cookies imported: 
+23/01/2016 11:56:23	--------------------------
+23/01/2016 11:56:23	Cookie: ---> sid=jrnmmtr02qmp26ko29r3ij2p24
+23/01/2016 11:56:23	Cookie: ---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:56:23	Cookie: ---> already_client=1
+23/01/2016 11:56:23	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:56:23	--------------------------
+23/01/2016 11:56:23	Sending web request to https://my.alpari.ru/ru/
+23/01/2016 11:56:23	Cookies to send: 
+23/01/2016 11:56:23	--------------------------
+23/01/2016 11:56:23	Cookie: ---> sid=jrnmmtr02qmp26ko29r3ij2p24
+23/01/2016 11:56:23	Cookie: ---> ssid=fh9mephbtp6c3e7uphjahta225
+23/01/2016 11:56:23	Cookie: ---> already_client=1
+23/01/2016 11:56:23	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 11:56:23	--------------------------

@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Antigate.NET</name>
+    </assembly>
+    <members>
+        <member name="T:Akumu.Antigate.AntiCaptcha">
+            <summary>
+            Класс реализует работу с сервисом antigate.com
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntiCaptcha.CheckDelay">
+            <summary>
+            Set/Get Задержка проверки готовности капчи. Стандартно: 15000. (15 сек.)
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntiCaptcha.CheckRetryCount">
+            <summary>
+            Set/Get Кол-во попыток проверки готовности капчи. Стандартно: 30
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntiCaptcha.SlotRetry">
+            <summary>
+            Set/Get кол-во попыток получения нового слота. Стандартно: 3
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntiCaptcha.SlotRetryDelay">
+            <summary>
+            Set/Get Задержка повторной попытки получения слота на Antigate. Стандартно: 1000
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntiCaptcha.Parameters">
+            <summary>
+            Коллекция дополнительных параметров для API запросов. 
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntiCaptcha.ServiceProvider">
+            <summary>
+            Сервис антикапчи. Стандартно: antigate.com
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntiCaptcha.Proxy">
+            <summary>
+            Прокси для работы с сервисом antigate. По умолчанию: null
+            </summary>
+        </member>
+        <member name="M:Akumu.Antigate.AntiCaptcha.#ctor(System.String)">
+            <summary>
+            Инициализирует объект AntiCapcha
+            </summary>
+            <param name="Key">Ваш секретный API ключ</param>
+        </member>
+        <member name="M:Akumu.Antigate.AntiCaptcha.GetAnswer(System.String)">
+            <summary>
+            Отправляет на антигейт файл прочитанный с диска.
+            </summary>
+            <param name="ImageFilePath">Путь к файлу изображения</param>
+            <returns>Разгаданный текст капчи или [null] в случае отсутствия свободных слотов или превышения времени ожидания</returns>
+        </member>
+        <member name="M:Akumu.Antigate.AntiCaptcha.GetAnswer(System.Drawing.Image)">
+            <summary>
+            Отправляет на антигейт изображение объекта Image
+            </summary>
+            <param name="Img"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Akumu.Antigate.AntiCaptcha.GetAnswer(System.Byte[])">
+            <summary>
+            Отправляет на антигейт массив данных изображения в формате PNG.
+            </summary>
+            <param name="ImageData">Массив данных изображения (PNG)</param>
+            <returns>Разгаданный текст капчи или [null] в случае отсутствия свободных слотов или превышения времени ожидания</returns>
+        </member>
+        <member name="M:Akumu.Antigate.AntiCaptcha.FalseCaptcha">
+            <summary>
+            Оповещаем антигейт о том, что последняя отправленная капча была не верной
+            </summary>
+        </member>
+        <member name="M:Akumu.Antigate.AntiCaptcha.GetBalance">
+            <summary>
+            Отправляет запрос о состоянии (балансе) счета Antigate
+            </summary>
+            <returns>Баланс аккаунта Antigate</returns>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.WRONG_USER_KEY">
+            <summary>
+            неправильный формат ключа учетной записи (длина не равняется 32 байтам)
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.KEY_DOES_NOT_EXIST">
+            <summary>
+            вы использовали неверный captcha ключ в запросе
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.ZERO_BALANCE">
+            <summary>
+            нулевой либо отрицательный баланс
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.ZERO_CAPTCHA_FILESIZE">
+            <summary>
+            размер капчи которую вы загружаете менее 100 байт
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.TOO_BIG_CAPTCHA_FILESIZE">
+            <summary>
+            ваша капча имеет размер более 100 килобайт
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.WRONG_FILE_EXTENSION">
+            <summary>
+            ваша капча имеет неверное расширение, допустимые расширения jpg,jpeg,gif,png
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.IMAGE_TYPE_NOT_SUPPORTED">
+            <summary>
+            Невозможно определить тип файла капчи, принимаются только форматы JPG, GIF, PNG
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.IP_NOT_ALLOWED">
+            <summary>
+            Запрос с этого IP адреса с текущим ключом отклонен. Пожалуйста смотрите раздел управления доступом по IP
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.WRONG_ID_FORMAT">
+            <summary>
+            некорректный идентификатор капчи, принимаются только цифры
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.AntigateError.CAPTCHA_UNSOLVABLE">
+            <summary>
+            капчу не смогли разгадать 5 разных работников
+            </summary>
+        </member>
+        <member name="T:Akumu.Antigate.AntigateErrorException">
+            <summary>
+            Экземпляр исключения выбрасываемого в ситуации, когда Antigate отвечает ERROR сообщением.
+            </summary>
+        </member>
+        <member name="M:Akumu.Antigate.AntigateErrorException.GetError">
+            <summary>
+            Возвращает AntigateError значение исключения
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Akumu.Antigate.Param">
+            <summary>
+            Объект дополнительного параметра API запроса
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.Param.Key">
+            <summary>
+            Ключ
+            </summary>
+        </member>
+        <member name="F:Akumu.Antigate.Param.Value">
+            <summary>
+            Значение
+            </summary>
+        </member>
+        <member name="M:Akumu.Antigate.Param.#ctor(System.String,System.String)">
+            <summary>
+            Новый объект параметра для API запросов
+            </summary>
+            <param name="Key">Ключ</param>
+            <param name="Value">Значение</param>
+        </member>
+        <member name="T:Akumu.Antigate.ParamsContainer">
+            <summary>
+            Объект коллекции дополнительных параметров API
+            </summary>
+        </member>
+        <member name="M:Akumu.Antigate.ParamsContainer.Clear">
+            <summary>
+            Очистка списка параметров
+            </summary>
+        </member>
+        <member name="M:Akumu.Antigate.ParamsContainer.Clone">
+            <summary>
+            Возвращает копию списка
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Akumu.Antigate.ParamsContainer.Set(System.String,System.String)">
+            <summary>
+            Добавляет или заменяет парметр в колекцию. Потоко-безопасен.
+            </summary>
+            <param name="Key">Ключ</param>
+            <param name="Value">Значение</param>
+        </member>
+        <member name="M:Akumu.Antigate.ParamsContainer.Set(Akumu.Antigate.Param)">
+            <summary>
+            Добавляет или заменяет парметр в колекцию. Потоко-безопасен.
+            </summary>
+            <param name="Param">Объект параметра</param>
+        </member>
+        <member name="M:Akumu.Antigate.ParamsContainer.GetParams">
+            <summary>
+            Возвращает коллекцию параметров 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Akumu.Antigate.ParamsContainer.Count">
+            <summary>
+            Возвращает кол-во параметров в коллекции
+            </summary>
+        </member>
+        <member name="T:Akumu.Antigate.Tools.ReCaptcha">
+            <summary>
+            Статический класс с набором инструментов для упрощения работы с ReCaptcha
+            </summary>
+        </member>
+        <member name="M:Akumu.Antigate.Tools.ReCaptcha.GetObjectsUrlsOnPage(System.String)">
+            <summary>
+            Функция возвращает string массив с ссылками на JS скрипты всех капч на странице. Контент этих страниц можно передавать функции ReCaptcha.GetObject(string)
+            </summary>
+            <param name="PageContent">Контент веб страницы для поиска</param>
+            <returns>string массив с ссылками на JS скрипты всех капч на странице. null если капч не найдено.</returns>
+        </member>
+        <member name="M:Akumu.Antigate.Tools.ReCaptcha.GetObject(System.String)">
+            <summary>
+            Функция возвращает объект ReCaptchaObject, содержащий в себе URL изображения капчи и recaptcha_challenge_field. 
+            </summary>
+            <param name="ScriptPage">Контент страницы challenge скрипта (i.e. http://api.recaptcha.net/challenge?k=6LfuVAYAAAAAAIDSp_7YKyuUU5f7SwfiDDwlUI4l )</param>
+            <returns>Функция возвращает URL изображения капчи, null если не найдено</returns>
+        </member>
+        <member name="T:Akumu.Antigate.Tools.ReCaptchaObject">
+            <summary>
+            Класс объекта капчи reCAPCHA. 
+            Содержит в себе значение переменной recaptcha_challenge_field, а так же вспомогательные методы связанные с ним. 
+            </summary>
+        </member>
+        <member name="M:Akumu.Antigate.Tools.ReCaptchaObject.ImageData">
+            <summary>
+            Загружает изображение капчи средствами стандартного WebClient, без дополнительных заголовков
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Akumu.Antigate.Tools.ReCaptchaObject.ImageObject">
+            <summary>
+            Интерпретирует вывод функции ReCaptchaObject.ImageData в виде объекта Image
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Akumu.Antigate.Tools.ReCaptchaObject.Challenge">
+            <summary>
+            Значение поля recaptcha_challenge_field
+            Используется для отправки капчи
+            </summary>
+        </member>
+        <member name="P:Akumu.Antigate.Tools.ReCaptchaObject.ImageURL">
+            <summary>
+            URL изображения
+            </summary>
+        </member>
+    </members>
+</doc>

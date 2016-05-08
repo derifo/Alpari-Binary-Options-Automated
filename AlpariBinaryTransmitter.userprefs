@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="AlpariBinaryTransmitter/AlpariBinaryTransmitter.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlpariBinaryTransmitter/AlpariClient.cs">
+    <Files>
+      <File FileName="AlpariBinaryTransmitter/Program.cs" Line="26" Column="13" />
+      <File FileName="AlpariBinaryTransmitter/SymbolsDictionary.cs" Line="1" Column="1" />
+      <File FileName="AlpariBinaryTransmitter/packages.config" Line="1" Column="1" />
+      <File FileName="AlpariBinaryTransmitter/JsonDictionary.cs" Line="1" Column="1" />
+      <File FileName="AlpariBinaryTransmitter/AlpariClient.cs" Line="1252" Column="24" />
+      <File FileName="AlpariBinaryTransmitter/BinaryPosition.cs" Line="1" Column="1" />
+      <File FileName="AlpariBinaryTransmitter/DebugLog.cs" Line="1" Column="1" />
+      <File FileName="AlpariBinaryTransmitter/WebClient.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

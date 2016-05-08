@@ -1,0 +1,6 @@
+23/01/2016 08:38:16	Alpari client starting!
+23/01/2016 08:38:16	DEMO MODE
+23/01/2016 08:38:18	Server says: {"type":"RESPONSE","action":"auth","error":{"code":"NOT_FOUND","description":"Not found entity"},"body":{},"rid":1}
+23/01/2016 08:38:18	Alpari client starting!
+23/01/2016 08:38:18	DEMO MODE
+23/01/2016 08:38:19	Server says: {"type":"RESPONSE","action":"auth","error":{"code":"NOT_FOUND","description":"Not found entity"},"body":{},"rid":2}

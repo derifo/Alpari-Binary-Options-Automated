@@ -1,0 +1,39 @@
+27/01/2016 10:32:30	Cookies imported: 
+27/01/2016 10:32:30	--------------------------
+27/01/2016 10:32:30	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:32:30	Cookie: ---> already_client=1
+27/01/2016 10:32:30	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:32:30	--------------------------
+27/01/2016 10:32:30	Alpari client starting!
+27/01/2016 10:32:30	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:32:30	Cookies to send: 
+27/01/2016 10:32:30	--------------------------
+27/01/2016 10:32:30	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:32:30	Cookie: ---> already_client=1
+27/01/2016 10:32:30	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:32:30	--------------------------
+27/01/2016 10:32:38	Cookies not updated
+27/01/2016 10:32:39	Logged in
+27/01/2016 10:32:39	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 10:32:39	Cookies to send: 
+27/01/2016 10:32:39	--------------------------
+27/01/2016 10:32:39	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:32:39	Cookie: ---> already_client=1
+27/01/2016 10:32:39	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:32:39	--------------------------
+27/01/2016 10:32:40	Cookies not updated
+27/01/2016 10:32:40	Token: 6aee6e9c162c9c9954775890e3e300763bd840d1
+27/01/2016 10:32:41	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+27/01/2016 10:32:42	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 10:32:42	Alpari client starting!
+27/01/2016 10:32:42	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:32:42	Cookies to send: 
+27/01/2016 10:32:42	--------------------------
+27/01/2016 10:32:42	Cookie: ---> ssid=jkcjau23k6f7mpq1vfbr98ls55
+27/01/2016 10:32:42	Cookie: ---> already_client=1
+27/01/2016 10:32:42	Cookie: ---> sid=umfj3ndjc2edd02dnpqjpcomi7
+27/01/2016 10:32:42	--------------------------
+27/01/2016 10:32:43	Cookies not updated

@@ -1,0 +1,21 @@
+27/01/2016 10:51:50	Alpari client starting!
+27/01/2016 10:51:50	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:51:53	Logged in
+27/01/2016 10:51:53	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 10:51:54	Token: 0fd9f2455a8b2969832d7bbcd622a7799035a93b
+27/01/2016 10:51:54	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+27/01/2016 10:51:55	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 10:52:24	Error: An exception has occurred while receiving a message.
+27/01/2016 10:52:25	Alpari client starting!
+27/01/2016 10:52:25	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 10:52:27	Logged in
+27/01/2016 10:52:27	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 10:52:27	Token: bef7e7960b546eb71e4784afd6bd111d7b2a2cb7
+27/01/2016 10:52:28	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":2}
+27/01/2016 10:52:29	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************

@@ -1,0 +1,16 @@
+27/01/2016 11:19:18	Alpari client starting!
+27/01/2016 11:19:18	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 11:19:22	Logged in
+27/01/2016 11:19:22	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 11:19:23	Token: b7077fe37f0305428da9aea1a3c35a812c367e94
+27/01/2016 11:19:23	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+27/01/2016 11:19:23	CheckWSAuth error: Не удается неявно преобразовать тип "double" в "int". Существует явное преобразование (требуется приведение типа?)
+27/01/2016 11:19:23	CheckWSAuth error: No TradeGroupID, CurrencyID or AccountID
+27/01/2016 11:19:25	Alpari client starting!
+27/01/2016 11:19:25	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 11:19:27	Logged in
+27/01/2016 11:19:27	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 11:19:27	Token: b40473ceb0dbde94b38da4cf012bddd58be79d60
+27/01/2016 11:19:28	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":2}
+27/01/2016 11:19:28	CheckWSAuth error: Не удается неявно преобразовать тип "double" в "int". Существует явное преобразование (требуется приведение типа?)
+27/01/2016 11:19:28	CheckWSAuth error: No TradeGroupID, CurrencyID or AccountID

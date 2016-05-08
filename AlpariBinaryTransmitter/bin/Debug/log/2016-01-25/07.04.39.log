@@ -1,0 +1,13 @@
+25/01/2016 07:04:39	Cookies imported: 
+25/01/2016 07:04:39	--------------------------
+25/01/2016 07:04:39	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:04:39	Cookie: ---> sid=
+25/01/2016 07:04:39	--------------------------
+25/01/2016 07:04:39	Alpari client starting!
+25/01/2016 07:04:39	Sending web request to https://my.alpari.ru/ru/
+25/01/2016 07:04:39	Cookies to send: 
+25/01/2016 07:04:39	--------------------------
+25/01/2016 07:04:39	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+25/01/2016 07:04:39	Cookie: ---> sid=
+25/01/2016 07:04:39	--------------------------
+25/01/2016 07:04:41	WebClient.Request error: Невозможно соединиться с удаленным сервером

@@ -1,0 +1,23 @@
+03/02/2016 20:42:25	Alpari client starting!
+03/02/2016 20:42:25	Sending web request to https://my.alpari.ru/ru/
+03/02/2016 20:42:26	Not logged in
+03/02/2016 20:42:26	Starting the web login process
+03/02/2016 20:42:26	Sending web request to https://www.alpari.ru/ru/login/
+03/02/2016 20:42:28	No captcha needed
+03/02/2016 20:42:28	Sending web request to https://www.alpari.ru/ru/login/
+03/02/2016 20:42:29	Sending web request to https://my.alpari.ru/ru/
+03/02/2016 20:42:32	Logged in
+03/02/2016 20:42:32	Logged to alpari
+03/02/2016 20:42:32	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+03/02/2016 20:42:33	Token: 15537497567685caf7d630a592d823f8d525b962
+03/02/2016 20:42:33	CONNECTION CLOSED
+03/02/2016 20:42:34	Server says: {"type":"RESPONSE","action":"time","body":{"lts":1454517751225},"rid":2}
+03/02/2016 20:42:34	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+03/02/2016 20:42:36	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+03/02/2016 20:42:36	Server says: {"type":"RESPONSE","action":"+account","body":{"sid":1346719},"rid":4}
+03/02/2016 20:42:36	Server says: {"type":"RESPONSE","action":"dictionary","body":{"assets":[{"decimals":5,"name":"EURUSD","id":1},{"decimals":5,"name":"GBPUSD","id":2},{"decimals":5,"name":"USDCHF","id":3},{"decimals":3,"name":"USDJPY","id":4},{"decimals":5,"name":"USDCAD","id":5},{"decimals":5,"name":"AUDUSD","id":6},{"decimals":5,"name":"NZDUSD","id":7},{"decimals":3,"name":"EURJPY","id":10},{"decimals":5,"name":"EURGBP","id":11},{"decimals":3,"name":"GBPJPY","id":12},{"decimals":5,"name":"EURCAD","id":13},{"decimals":5,"name":"EURAUD","id":14},{"decimals":3,"name":"AUDJPY","id":15},{"decimals":5,"name":"GBPAUD","id":16},{"decimals":5,"name":"GBPCAD","id":17},{"decimals":5,"name":"GBPCHF","id":18},{"decimals":3,"name":"NZDJPY","id":19},{"decimals":3,"name":"XAUUSD","id":20},{"decimals":3,"name":"XAGUSD","id":21}],"currencies":[{"name":"EUR","id":978},{"name":"RUR","id":643},{"name":"USD","id":840},{"name":"GLD","id":10959}],"time_frames":[{"history_size":0,"period":60,"bar_size":1,"name":"1M","id":1},{"history_size":0,"period":300,"bar_size":5,"name":"5M","id":2},{"history_size":0,"period":900,"bar_size":15,"name":"15M","id":3},{"history_size":0,"period":1800,"bar_size":30,"name":"30M","id":4},{"history_size":0,"period":5,"bar_size":1,"name":"5S","id":100},{"history_size":0,"period":3600,"bar_size":60,"name":"1H","id":5},{"history_size":0,"period":7200,"bar_size":60,"name":"2H","id":6},{"history_size":0,"period":14400,"bar_size":300,"name":"4H","id":7},{"history_size":0,"period":86400,"bar_size":1800,"name":"1D","id":8}],"option_types":[{"id":1,"name":"call_put"},{"id":2,"name":"touch"},{"id":3,"name":"range"},{"id":4,"name":"spread"}],"operation_types":[{"name":"deposit","id":1},{"name":"withdrawal","id":2},{"name":"buy","id":3},{"name":"expiry","id":4},{"name":"compensation","id":7}],"directions":[{"name":"call","id":1},{"name":"put","id":2},{"name":"in","id":3},{"name":"out","id":4}],"option_states":[{"name":"approved","id":2},{"name":"started","id":3},{"name":"closed","id":6}],"option_expiry_reasons":[{"name":"time","id":1},{"name":"touch","id":2},{"name":"early","id":3}],"option_results":[{"name":"win","id":1},{"name":"loss","id":2},{"name":"parity","id":3}],"trade_settings":[{"name":"payout_win","id":1},{"name":"payout_lose","id":2},{"name":"payout_parity","id":3},{"name":"enable","id":6},{"name":"enable_permanent","id":7},{"name":"max_bet_643","id":13},{"name":"max_bet_840","id":14},{"name":"max_bet_978","id":15},{"name":"max_bet_10959","id":16},{"name":"min_bet_643","id":17},{"name":"min_bet_840","id":18},{"name":"min_bet_978","id":19},{"name":"min_bet_10959","id":20},{"name":"max_amount_active_options_643","id":21},{"name":"max_amount_active_options_840","id":22},{"name":"max_amount_active_options_978","id":23},{"name":"max_amount_active_options_10959","id":24},{"name":"early_win_percent","id":25},{"name":"early_loss_percent","id":26},{"name":"early_parity_percent","id":27}]},"rid":5}
+03/02/2016 20:43:03	Sending web request to https://my.alpari.ru/ru/
+03/02/2016 20:43:06	Logged in

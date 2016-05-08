@@ -1,0 +1,19 @@
+23/01/2016 08:48:33	Alpari client starting!
+23/01/2016 08:48:36	Logged in
+23/01/2016 08:48:37	Token: 4df08f2d1dd8590d20575baa9c9a54be6085e359
+23/01/2016 08:48:37	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+23/01/2016 08:48:38	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+23/01/2016 08:48:38	Alpari client starting!
+23/01/2016 08:48:40	Logged in
+23/01/2016 08:48:40	Token: 7918fa47c70339cb60f88c0f8c350bc996f302c2
+23/01/2016 08:48:41	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+23/01/2016 08:48:41	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":2}
+23/01/2016 08:48:51	Connected successfully
+23/01/2016 08:49:07	Error: An exception has occurred while receiving a message.
+23/01/2016 08:49:11	Error: An exception has occurred while receiving a message.

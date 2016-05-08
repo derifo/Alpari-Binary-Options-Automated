@@ -1,0 +1,13 @@
+03/02/2016 23:58:29	Alpari client starting!
+03/02/2016 23:58:29	Sending web request to https://my.alpari.ru/ru/
+03/02/2016 23:58:32	Logged in
+03/02/2016 23:58:32	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+03/02/2016 23:58:32	Token: 0476b244fcf3db6964f7403e63072e609711e9ed
+03/02/2016 23:58:32	CONNECTION CLOSED
+03/02/2016 23:58:34	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+03/02/2016 23:58:34	Setting dictionary
+03/02/2016 23:58:37	PayoutLose: 0
+03/02/2016 23:58:37	PayoutParity: 100

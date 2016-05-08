@@ -1,0 +1,10 @@
+27/01/2016 11:19:58	Alpari client starting!
+27/01/2016 11:19:58	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 11:20:02	Logged in
+27/01/2016 11:20:02	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 11:20:03	Token: 14db4eee898675b7ad3893481fb9df0c0f864a46
+27/01/2016 11:20:03	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+27/01/2016 11:20:04	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************

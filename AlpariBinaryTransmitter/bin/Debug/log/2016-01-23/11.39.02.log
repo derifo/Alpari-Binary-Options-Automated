@@ -1,0 +1,13 @@
+23/01/2016 11:39:02	Alpari client starting!
+23/01/2016 11:39:03	Not logged in
+23/01/2016 11:39:03	Starting the web login process
+23/01/2016 11:39:04	Need to download and recognize captcha before login
+23/01/2016 11:39:04	Downloading...
+23/01/2016 11:39:04	URL:	https://www.alpari.ru/ru/login/captcha/
+23/01/2016 11:39:04	Save to:	captcha.png
+23/01/2016 11:39:05	Starting recognizing captcha...
+23/01/2016 11:39:05	Image file: captcha.png
+23/01/2016 11:39:57	Captcha code is: 24949
+23/01/2016 11:39:59	Not logged in
+23/01/2016 11:39:59	Error logging to website
+23/01/2016 11:39:59	Alpari client starting!

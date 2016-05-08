@@ -1,0 +1,24 @@
+03/02/2016 21:16:15	Alpari client starting!
+03/02/2016 21:16:15	Sending web request to https://my.alpari.ru/ru/
+03/02/2016 21:16:18	Logged in
+03/02/2016 21:16:18	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+03/02/2016 21:16:19	Token: 08ca80a89fc7d7f0336f862a360ca034b983202b
+03/02/2016 21:16:19	CONNECTION CLOSED
+03/02/2016 21:16:20	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+03/02/2016 21:16:20	Setting dictionary
+03/02/2016 21:16:20	Element name: call_put
+03/02/2016 21:16:20	Exception: "System.Collections.Generic.Dictionary<string,object>" не содержит определения для "name"
+03/02/2016 21:16:20	Element name: touch
+03/02/2016 21:16:20	Exception: "System.Collections.Generic.Dictionary<string,object>" не содержит определения для "name"
+03/02/2016 21:16:20	Element name: range
+03/02/2016 21:16:20	Exception: "System.Collections.Generic.Dictionary<string,object>" не содержит определения для "name"
+03/02/2016 21:16:20	Element name: spread
+03/02/2016 21:16:20	Exception: "System.Collections.Generic.Dictionary<string,object>" не содержит определения для "name"
+03/02/2016 21:16:21	Tick: 1.10486
+03/02/2016 21:16:21	Tick: 1.10485
+03/02/2016 21:16:22	Tick: 1.10484
+03/02/2016 21:16:22	Tick: 1.10483
+03/02/2016 21:16:23	Tick: 1.10482

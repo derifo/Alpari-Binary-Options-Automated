@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>websocket-sharp-with-proxy-support</id>
+    <version>1.9.1</version>
+    <authors>dehealy</authors>
+    <owners>dehealy</owners>
+    <licenseUrl>ttps://raw.githubusercontent.com/sta/websocket-sharp/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/dehealy/websocket-sharp</projectUrl>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/commons/7/7e/Cute-Ball-Favorites-icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Websocket Sharp with Proxy Support</description>
+    <summary>websocket-sharp with proxy support</summary>
+    <releaseNotes>Websocket Sharp with Proxy Support</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>

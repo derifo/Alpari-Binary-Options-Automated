@@ -1,0 +1,211 @@
+27/01/2016 17:44:59	Alpari client starting!
+27/01/2016 17:44:59	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 17:45:00	Not logged in
+27/01/2016 17:45:00	Starting the web login process
+27/01/2016 17:45:00	Sending web request to https://www.alpari.ru/ru/login/
+27/01/2016 17:45:01	No captcha needed
+27/01/2016 17:45:01	Sending web request to https://www.alpari.ru/ru/login/
+27/01/2016 17:45:02	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 17:45:04	Logged in
+27/01/2016 17:45:04	Logged to alpari
+27/01/2016 17:45:04	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 17:45:05	Token: d03af9be20445b92321bf046a7c40f2a0771cdb2
+27/01/2016 17:45:05	Server says: {"type":"RESPONSE","action":"time","body":{"lts":1453902303352},"rid":2}
+27/01/2016 17:45:05	Server says: {"type":"RESPONSE","action":"account","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":3}
+27/01/2016 17:45:05	Server says: {"type":"RESPONSE","action":"dictionary","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":4}
+27/01/2016 17:45:05	Server says: {"type":"RESPONSE","action":"trade_state","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":5}
+27/01/2016 17:45:05	Server says: {"type":"RESPONSE","action":"trade_settings","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":6}
+27/01/2016 17:45:05	Server says: {"type":"RESPONSE","action":"+rate","body":{"sid":719371},"rid":7}
+27/01/2016 17:45:05	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":1}
+27/01/2016 17:45:06	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08995,"lts":1453902303412,"asset_id":1},"rid":0,"aid":2,"sid":719371}
+27/01/2016 17:45:06	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08987,"lts":1453902303654,"asset_id":1},"rid":0,"aid":3,"sid":719371}
+27/01/2016 17:45:06	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08986,"lts":1453902303862,"asset_id":1},"rid":0,"aid":4,"sid":719371}
+27/01/2016 17:45:06	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08987,"lts":1453902304062,"asset_id":1},"rid":0,"aid":5,"sid":719371}
+27/01/2016 17:45:06	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 17:45:06	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08985,"lts":1453902304285,"asset_id":1},"rid":0,"aid":6,"sid":719371}
+27/01/2016 17:45:07	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08986,"lts":1453902304491,"asset_id":1},"rid":0,"aid":7,"sid":719371}
+27/01/2016 17:45:07	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08989,"lts":1453902304701,"asset_id":1},"rid":0,"aid":8,"sid":719371}
+27/01/2016 17:45:07	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08984,"lts":1453902305123,"asset_id":1},"rid":0,"aid":9,"sid":719371}
+27/01/2016 17:45:07	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08979,"lts":1453902305325,"asset_id":1},"rid":0,"aid":10,"sid":719371}
+27/01/2016 17:45:08	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08977,"lts":1453902305551,"asset_id":1},"rid":0,"aid":11,"sid":719371}
+27/01/2016 17:45:08	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08976,"lts":1453902305780,"asset_id":1},"rid":0,"aid":12,"sid":719371}
+27/01/2016 17:45:08	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08977,"lts":1453902305975,"asset_id":1},"rid":0,"aid":13,"sid":719371}
+27/01/2016 17:45:09	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08978,"lts":1453902307074,"asset_id":1},"rid":0,"aid":14,"sid":719371}
+27/01/2016 17:45:09	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08983,"lts":1453902307274,"asset_id":1},"rid":0,"aid":15,"sid":719371}
+27/01/2016 17:45:10	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902307477,"asset_id":1},"rid":0,"aid":16,"sid":719371}
+27/01/2016 17:45:10	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08962,"lts":1453902307688,"asset_id":1},"rid":0,"aid":17,"sid":719371}
+27/01/2016 17:45:10	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08959,"lts":1453902307890,"asset_id":1},"rid":0,"aid":18,"sid":719371}
+27/01/2016 17:45:10	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0896,"lts":1453902308088,"asset_id":1},"rid":0,"aid":19,"sid":719371}
+27/01/2016 17:45:11	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08957,"lts":1453902308506,"asset_id":1},"rid":0,"aid":20,"sid":719371}
+27/01/2016 17:45:11	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08955,"lts":1453902308715,"asset_id":1},"rid":0,"aid":21,"sid":719371}
+27/01/2016 17:45:11	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08956,"lts":1453902309320,"asset_id":1},"rid":0,"aid":22,"sid":719371}
+27/01/2016 17:45:12	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08957,"lts":1453902309530,"asset_id":1},"rid":0,"aid":23,"sid":719371}
+27/01/2016 17:45:12	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08962,"lts":1453902310365,"asset_id":1},"rid":0,"aid":24,"sid":719371}
+27/01/2016 17:45:13	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08969,"lts":1453902310626,"asset_id":1},"rid":0,"aid":25,"sid":719371}
+27/01/2016 17:45:13	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08967,"lts":1453902310833,"asset_id":1},"rid":0,"aid":26,"sid":719371}
+27/01/2016 17:45:13	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08966,"lts":1453902311046,"asset_id":1},"rid":0,"aid":27,"sid":719371}
+27/01/2016 17:45:13	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08967,"lts":1453902311246,"asset_id":1},"rid":0,"aid":28,"sid":719371}
+27/01/2016 17:45:14	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08968,"lts":1453902311456,"asset_id":1},"rid":0,"aid":29,"sid":719371}
+27/01/2016 17:45:14	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08966,"lts":1453902311871,"asset_id":1},"rid":0,"aid":30,"sid":719371}
+27/01/2016 17:45:14	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08968,"lts":1453902312086,"asset_id":1},"rid":0,"aid":31,"sid":719371}
+27/01/2016 17:45:15	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08969,"lts":1453902312702,"asset_id":1},"rid":0,"aid":32,"sid":719371}
+27/01/2016 17:45:15	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0897,"lts":1453902312898,"asset_id":1},"rid":0,"aid":33,"sid":719371}
+27/01/2016 17:45:16	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08969,"lts":1453902314148,"asset_id":1},"rid":0,"aid":34,"sid":719371}
+27/01/2016 17:45:18	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08974,"lts":1453902315758,"asset_id":1},"rid":0,"aid":35,"sid":719371}
+27/01/2016 17:45:18	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08976,"lts":1453902315991,"asset_id":1},"rid":0,"aid":36,"sid":719371}
+27/01/2016 17:45:18	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08974,"lts":1453902316201,"asset_id":1},"rid":0,"aid":37,"sid":719371}
+27/01/2016 17:45:18	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08971,"lts":1453902316404,"asset_id":1},"rid":0,"aid":38,"sid":719371}
+27/01/2016 17:45:19	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0897,"lts":1453902316615,"asset_id":1},"rid":0,"aid":39,"sid":719371}
+27/01/2016 17:45:19	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08969,"lts":1453902316860,"asset_id":1},"rid":0,"aid":40,"sid":719371}
+27/01/2016 17:45:19	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08967,"lts":1453902317264,"asset_id":1},"rid":0,"aid":41,"sid":719371}
+27/01/2016 17:45:20	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08965,"lts":1453902317464,"asset_id":1},"rid":0,"aid":42,"sid":719371}
+27/01/2016 17:45:20	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08967,"lts":1453902317885,"asset_id":1},"rid":0,"aid":43,"sid":719371}
+27/01/2016 17:45:20	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08968,"lts":1453902318353,"asset_id":1},"rid":0,"aid":44,"sid":719371}
+27/01/2016 17:45:21	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08967,"lts":1453902318780,"asset_id":1},"rid":0,"aid":45,"sid":719371}
+27/01/2016 17:45:21	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08966,"lts":1453902318980,"asset_id":1},"rid":0,"aid":46,"sid":719371}
+27/01/2016 17:45:22	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08967,"lts":1453902319593,"asset_id":1},"rid":0,"aid":47,"sid":719371}
+27/01/2016 17:45:23	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08968,"lts":1453902320585,"asset_id":1},"rid":0,"aid":48,"sid":719371}
+27/01/2016 17:45:24	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08969,"lts":1453902321866,"asset_id":1},"rid":0,"aid":49,"sid":719371}
+27/01/2016 17:45:24	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08968,"lts":1453902322097,"asset_id":1},"rid":0,"aid":50,"sid":719371}
+27/01/2016 17:45:24	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0897,"lts":1453902322316,"asset_id":1},"rid":0,"aid":51,"sid":719371}
+27/01/2016 17:45:25	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08972,"lts":1453902322523,"asset_id":1},"rid":0,"aid":52,"sid":719371}
+27/01/2016 17:45:25	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08974,"lts":1453902322729,"asset_id":1},"rid":0,"aid":53,"sid":719371}
+27/01/2016 17:45:26	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08975,"lts":1453902323807,"asset_id":1},"rid":0,"aid":54,"sid":719371}
+27/01/2016 17:45:26	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08972,"lts":1453902324209,"asset_id":1},"rid":0,"aid":55,"sid":719371}
+27/01/2016 17:45:27	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08973,"lts":1453902324676,"asset_id":1},"rid":0,"aid":56,"sid":719371}
+27/01/2016 17:45:28	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08972,"lts":1453902325602,"asset_id":1},"rid":0,"aid":57,"sid":719371}
+27/01/2016 17:45:28	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08974,"lts":1453902326011,"asset_id":1},"rid":0,"aid":58,"sid":719371}
+27/01/2016 17:45:28	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08975,"lts":1453902326211,"asset_id":1},"rid":0,"aid":59,"sid":719371}
+27/01/2016 17:45:28	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08976,"lts":1453902326416,"asset_id":1},"rid":0,"aid":60,"sid":719371}
+27/01/2016 17:45:30	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08977,"lts":1453902327440,"asset_id":1},"rid":0,"aid":61,"sid":719371}
+27/01/2016 17:45:30	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08978,"lts":1453902327652,"asset_id":1},"rid":0,"aid":62,"sid":719371}
+27/01/2016 17:45:30	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0898,"lts":1453902327850,"asset_id":1},"rid":0,"aid":63,"sid":719371}
+27/01/2016 17:45:30	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902328054,"asset_id":1},"rid":0,"aid":64,"sid":719371}
+27/01/2016 17:45:30	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08981,"lts":1453902328278,"asset_id":1},"rid":0,"aid":65,"sid":719371}
+27/01/2016 17:45:31	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0898,"lts":1453902328493,"asset_id":1},"rid":0,"aid":66,"sid":719371}
+27/01/2016 17:45:31	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08978,"lts":1453902328704,"asset_id":1},"rid":0,"aid":67,"sid":719371}
+27/01/2016 17:45:31	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0898,"lts":1453902328961,"asset_id":1},"rid":0,"aid":68,"sid":719371}
+27/01/2016 17:45:31	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08979,"lts":1453902329172,"asset_id":1},"rid":0,"aid":69,"sid":719371}
+27/01/2016 17:45:31	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0898,"lts":1453902329373,"asset_id":1},"rid":0,"aid":70,"sid":719371}
+27/01/2016 17:45:32	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08981,"lts":1453902329840,"asset_id":1},"rid":0,"aid":71,"sid":719371}
+27/01/2016 17:45:32	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0898,"lts":1453902330060,"asset_id":1},"rid":0,"aid":72,"sid":719371}
+27/01/2016 17:45:32	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08981,"lts":1453902330299,"asset_id":1},"rid":0,"aid":73,"sid":719371}
+27/01/2016 17:45:34	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902332382,"asset_id":1},"rid":0,"aid":74,"sid":719371}
+27/01/2016 17:45:35	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08981,"lts":1453902333016,"asset_id":1},"rid":0,"aid":75,"sid":719371}
+27/01/2016 17:45:36	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08983,"lts":1453902333633,"asset_id":1},"rid":0,"aid":76,"sid":719371}
+27/01/2016 17:45:36	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08984,"lts":1453902333845,"asset_id":1},"rid":0,"aid":77,"sid":719371}
+27/01/2016 17:45:36	Alpari client starting!
+27/01/2016 17:45:36	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 17:45:39	Logged in
+27/01/2016 17:45:39	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 17:45:41	Token: da34eec55276a58447eb39a4edf70ab384ec9f42
+27/01/2016 17:45:41	Server says: {"type":"RESPONSE","action":"time","body":{"lts":1453902339123},"rid":9}
+27/01/2016 17:45:41	Server says: {"type":"RESPONSE","action":"account","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":10}
+27/01/2016 17:45:41	Server says: {"type":"RESPONSE","action":"dictionary","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":11}
+27/01/2016 17:45:41	Server says: {"type":"RESPONSE","action":"trade_state","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":12}
+27/01/2016 17:45:41	Server says: {"type":"RESPONSE","action":"trade_settings","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":13}
+27/01/2016 17:45:41	Server says: {"type":"RESPONSE","action":"+rate","body":{"sid":719390},"rid":14}
+27/01/2016 17:45:41	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":8}
+27/01/2016 17:45:42	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0898,"lts":1453902339894,"asset_id":1},"rid":0,"aid":2,"sid":719390}
+27/01/2016 17:45:42	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 17:45:43	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08983,"lts":1453902340454,"asset_id":1},"rid":0,"aid":3,"sid":719390}
+27/01/2016 17:45:43	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08984,"lts":1453902340657,"asset_id":1},"rid":0,"aid":4,"sid":719390}
+27/01/2016 17:45:44	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08985,"lts":1453902341522,"asset_id":1},"rid":0,"aid":5,"sid":719390}
+27/01/2016 17:45:44	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08984,"lts":1453902342206,"asset_id":1},"rid":0,"aid":6,"sid":719390}
+27/01/2016 17:45:45	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08983,"lts":1453902342632,"asset_id":1},"rid":0,"aid":7,"sid":719390}
+27/01/2016 17:45:45	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08981,"lts":1453902343042,"asset_id":1},"rid":0,"aid":8,"sid":719390}
+27/01/2016 17:45:46	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902343506,"asset_id":1},"rid":0,"aid":9,"sid":719390}
+27/01/2016 17:45:46	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08984,"lts":1453902343712,"asset_id":1},"rid":0,"aid":10,"sid":719390}
+27/01/2016 17:45:46	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08985,"lts":1453902343916,"asset_id":1},"rid":0,"aid":11,"sid":719390}
+27/01/2016 17:45:46	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08986,"lts":1453902344144,"asset_id":1},"rid":0,"aid":12,"sid":719390}
+27/01/2016 17:45:46	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08984,"lts":1453902344348,"asset_id":1},"rid":0,"aid":13,"sid":719390}
+27/01/2016 17:45:47	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08985,"lts":1453902344916,"asset_id":1},"rid":0,"aid":14,"sid":719390}
+27/01/2016 17:45:47	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08984,"lts":1453902345384,"asset_id":1},"rid":0,"aid":15,"sid":719390}
+27/01/2016 17:45:48	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08985,"lts":1453902345588,"asset_id":1},"rid":0,"aid":16,"sid":719390}
+27/01/2016 17:45:48	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08986,"lts":1453902346004,"asset_id":1},"rid":0,"aid":17,"sid":719390}
+27/01/2016 17:45:49	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08987,"lts":1453902346844,"asset_id":1},"rid":0,"aid":18,"sid":719390}
+27/01/2016 17:45:51	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08985,"lts":1453902349120,"asset_id":1},"rid":0,"aid":19,"sid":719390}
+27/01/2016 17:45:52	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08987,"lts":1453902349569,"asset_id":1},"rid":0,"aid":20,"sid":719390}
+27/01/2016 17:45:52	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08986,"lts":1453902349762,"asset_id":1},"rid":0,"aid":21,"sid":719390}
+27/01/2016 17:45:53	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08983,"lts":1453902351382,"asset_id":1},"rid":0,"aid":22,"sid":719390}
+27/01/2016 17:45:54	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902351601,"asset_id":1},"rid":0,"aid":23,"sid":719390}
+27/01/2016 17:45:54	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08981,"lts":1453902351814,"asset_id":1},"rid":0,"aid":24,"sid":719390}
+27/01/2016 17:45:54	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902352009,"asset_id":1},"rid":0,"aid":25,"sid":719390}
+27/01/2016 17:45:55	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08983,"lts":1453902352650,"asset_id":1},"rid":0,"aid":26,"sid":719390}
+27/01/2016 17:45:55	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902353076,"asset_id":1},"rid":0,"aid":27,"sid":719390}
+27/01/2016 17:45:55	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08978,"lts":1453902353305,"asset_id":1},"rid":0,"aid":28,"sid":719390}
+27/01/2016 17:45:56	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08974,"lts":1453902353506,"asset_id":1},"rid":0,"aid":29,"sid":719390}
+27/01/2016 17:45:56	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08973,"lts":1453902353715,"asset_id":1},"rid":0,"aid":30,"sid":719390}
+27/01/2016 17:45:57	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08976,"lts":1453902354681,"asset_id":1},"rid":0,"aid":31,"sid":719390}
+27/01/2016 17:46:21	Alpari client starting!
+27/01/2016 17:46:21	Sending web request to https://my.alpari.ru/ru/
+27/01/2016 17:46:23	Logged in
+27/01/2016 17:46:23	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+27/01/2016 17:46:24	Token: 907d4138daf1e850c8eb50e1315708d7207a5449
+27/01/2016 17:46:24	Server says: {"type":"RESPONSE","action":"time","body":{"lts":1453902382096},"rid":16}
+27/01/2016 17:46:24	Server says: {"type":"RESPONSE","action":"account","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":17}
+27/01/2016 17:46:24	Server says: {"type":"RESPONSE","action":"dictionary","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":18}
+27/01/2016 17:46:24	Server says: {"type":"RESPONSE","action":"trade_state","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":19}
+27/01/2016 17:46:24	Server says: {"type":"RESPONSE","action":"trade_settings","error":{"code":"NOT_AUTHORIZED","description":""},"body":{},"rid":20}
+27/01/2016 17:46:24	Server says: {"type":"RESPONSE","action":"+rate","body":{"sid":719429},"rid":21}
+27/01/2016 17:46:24	Server says: {"type":"RESPONSE","action":"auth","body":{"trade_group_id":1,"currency_id":840,"account_id":4553886},"rid":15}
+27/01/2016 17:46:25	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+27/01/2016 17:46:25	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902383144,"asset_id":1},"rid":0,"aid":2,"sid":719429}
+27/01/2016 17:46:26	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08981,"lts":1453902383766,"asset_id":1},"rid":0,"aid":3,"sid":719429}
+27/01/2016 17:46:26	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08984,"lts":1453902384180,"asset_id":1},"rid":0,"aid":4,"sid":719429}
+27/01/2016 17:46:27	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08985,"lts":1453902384614,"asset_id":1},"rid":0,"aid":5,"sid":719429}
+27/01/2016 17:46:28	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08986,"lts":1453902385905,"asset_id":1},"rid":0,"aid":6,"sid":719429}
+27/01/2016 17:46:28	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08988,"lts":1453902386117,"asset_id":1},"rid":0,"aid":7,"sid":719429}
+27/01/2016 17:46:28	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08989,"lts":1453902386375,"asset_id":1},"rid":0,"aid":8,"sid":719429}
+27/01/2016 17:46:29	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08988,"lts":1453902386573,"asset_id":1},"rid":0,"aid":9,"sid":719429}
+27/01/2016 17:46:29	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08987,"lts":1453902386807,"asset_id":1},"rid":0,"aid":10,"sid":719429}
+27/01/2016 17:46:29	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08986,"lts":1453902387029,"asset_id":1},"rid":0,"aid":11,"sid":719429}
+27/01/2016 17:46:30	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08987,"lts":1453902387642,"asset_id":1},"rid":0,"aid":12,"sid":719429}
+27/01/2016 17:46:31	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08986,"lts":1453902389186,"asset_id":1},"rid":0,"aid":13,"sid":719429}
+27/01/2016 17:46:33	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08982,"lts":1453902390462,"asset_id":1},"rid":0,"aid":14,"sid":719429}
+27/01/2016 17:46:33	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08981,"lts":1453902390663,"asset_id":1},"rid":0,"aid":15,"sid":719429}
+27/01/2016 17:46:34	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08979,"lts":1453902392416,"asset_id":1},"rid":0,"aid":16,"sid":719429}
+27/01/2016 17:46:35	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08976,"lts":1453902392625,"asset_id":1},"rid":0,"aid":17,"sid":719429}
+27/01/2016 17:46:36	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08977,"lts":1453902393519,"asset_id":1},"rid":0,"aid":18,"sid":719429}
+27/01/2016 17:46:36	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08974,"lts":1453902393928,"asset_id":1},"rid":0,"aid":19,"sid":719429}
+27/01/2016 17:46:36	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08973,"lts":1453902394353,"asset_id":1},"rid":0,"aid":20,"sid":719429}
+27/01/2016 17:46:37	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08974,"lts":1453902394763,"asset_id":1},"rid":0,"aid":21,"sid":719429}
+27/01/2016 17:46:37	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08975,"lts":1453902394959,"asset_id":1},"rid":0,"aid":22,"sid":719429}
+27/01/2016 17:46:37	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08969,"lts":1453902395166,"asset_id":1},"rid":0,"aid":23,"sid":719429}
+27/01/2016 17:46:37	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08964,"lts":1453902395386,"asset_id":1},"rid":0,"aid":24,"sid":719429}
+27/01/2016 17:46:38	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08965,"lts":1453902396232,"asset_id":1},"rid":0,"aid":25,"sid":719429}
+27/01/2016 17:46:39	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08964,"lts":1453902396503,"asset_id":1},"rid":0,"aid":26,"sid":719429}
+27/01/2016 17:46:39	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08967,"lts":1453902396917,"asset_id":1},"rid":0,"aid":27,"sid":719429}
+27/01/2016 17:46:39	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08968,"lts":1453902397130,"asset_id":1},"rid":0,"aid":28,"sid":719429}
+27/01/2016 17:46:39	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0897,"lts":1453902397326,"asset_id":1},"rid":0,"aid":29,"sid":719429}
+27/01/2016 17:46:40	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08971,"lts":1453902397741,"asset_id":1},"rid":0,"aid":30,"sid":719429}
+27/01/2016 17:46:41	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08957,"lts":1453902399192,"asset_id":1},"rid":0,"aid":31,"sid":719429}
+27/01/2016 17:46:41	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08961,"lts":1453902399390,"asset_id":1},"rid":0,"aid":32,"sid":719429}
+27/01/2016 17:46:42	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08956,"lts":1453902399594,"asset_id":1},"rid":0,"aid":33,"sid":719429}
+27/01/2016 17:46:42	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08955,"lts":1453902399811,"asset_id":1},"rid":0,"aid":34,"sid":719429}
+27/01/2016 17:46:44	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08956,"lts":1453902401646,"asset_id":1},"rid":0,"aid":35,"sid":719429}
+27/01/2016 17:46:44	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08957,"lts":1453902402052,"asset_id":1},"rid":0,"aid":36,"sid":719429}
+27/01/2016 17:46:45	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08959,"lts":1453902402464,"asset_id":1},"rid":0,"aid":37,"sid":719429}
+27/01/2016 17:46:45	Server says: {"type":"EVENT","action":"rate","body":{"value":1.0896,"lts":1453902403075,"asset_id":1},"rid":0,"aid":38,"sid":719429}
+27/01/2016 17:46:46	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08959,"lts":1453902404274,"asset_id":1},"rid":0,"aid":39,"sid":719429}
+27/01/2016 17:46:47	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08957,"lts":1453902404500,"asset_id":1},"rid":0,"aid":40,"sid":719429}
+27/01/2016 17:46:47	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08955,"lts":1453902404756,"asset_id":1},"rid":0,"aid":41,"sid":719429}
+27/01/2016 17:46:47	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08954,"lts":1453902404978,"asset_id":1},"rid":0,"aid":42,"sid":719429}
+27/01/2016 17:46:48	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08953,"lts":1453902405607,"asset_id":1},"rid":0,"aid":43,"sid":719429}
+27/01/2016 17:46:48	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08954,"lts":1453902406019,"asset_id":1},"rid":0,"aid":44,"sid":719429}
+27/01/2016 17:46:49	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08955,"lts":1453902406465,"asset_id":1},"rid":0,"aid":45,"sid":719429}
+27/01/2016 17:46:49	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08954,"lts":1453902406978,"asset_id":1},"rid":0,"aid":46,"sid":719429}
+27/01/2016 17:46:49	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08955,"lts":1453902407386,"asset_id":1},"rid":0,"aid":47,"sid":719429}
+27/01/2016 17:46:50	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08956,"lts":1453902407597,"asset_id":1},"rid":0,"aid":48,"sid":719429}
+27/01/2016 17:46:50	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08955,"lts":1453902407807,"asset_id":1},"rid":0,"aid":49,"sid":719429}
+27/01/2016 17:46:51	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08956,"lts":1453902409309,"asset_id":1},"rid":0,"aid":50,"sid":719429}
+27/01/2016 17:46:52	Server says: {"type":"EVENT","action":"rate","body":{"value":1.08955,"lts":1453902409509,"asset_id":1},"rid":0,"aid":51,"sid":719429}

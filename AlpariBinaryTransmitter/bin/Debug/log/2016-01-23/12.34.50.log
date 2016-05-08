@@ -1,0 +1,200 @@
+23/01/2016 12:34:50	Alpari client starting!
+23/01/2016 12:34:50	Cookies import error: Файл 'D:\MultiCharts_Data\AlpariBinaryTransmitter\AlpariBinaryTransmitter\AlpariBinaryTransmitter\bin\Debug\cookies.xml' не найден.
+23/01/2016 12:34:50	Cookies imported: 
+23/01/2016 12:34:50	--------------------------
+23/01/2016 12:34:50	--------------------------
+23/01/2016 12:34:50	Sending web request to https://my.alpari.ru/ru/
+23/01/2016 12:34:50	Cookies to send: 
+23/01/2016 12:34:50	--------------------------
+23/01/2016 12:34:50	--------------------------
+23/01/2016 12:34:51	Cookies updated: 
+23/01/2016 12:34:51	--------------------------
+23/01/2016 12:34:51	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:34:51	--------------------------
+23/01/2016 12:34:51	Not logged in
+23/01/2016 12:34:51	Starting the web login process
+23/01/2016 12:34:51	Sending web request to https://www.alpari.ru/ru/login/
+23/01/2016 12:34:51	Cookies to send: 
+23/01/2016 12:34:51	--------------------------
+23/01/2016 12:34:51	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:34:51	--------------------------
+23/01/2016 12:34:52	Cookies not updated
+23/01/2016 12:34:52	Need to download and recognize captcha before login
+23/01/2016 12:34:52	Downloading...
+23/01/2016 12:34:52	URL:	https://www.alpari.ru/ru/login/captcha/
+23/01/2016 12:34:52	Save to:	captcha.png
+23/01/2016 12:34:52	Sending web request to https://www.alpari.ru/ru/login/captcha/
+23/01/2016 12:34:52	Cookies to send: 
+23/01/2016 12:34:52	--------------------------
+23/01/2016 12:34:52	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:34:52	--------------------------
+23/01/2016 12:34:52	Cookies updated: 
+23/01/2016 12:34:52	--------------------------
+23/01/2016 12:34:52	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:34:52	Cookie: ---> sid=ecj7i1j8nr1lmo5jqk8esfj8m3
+23/01/2016 12:34:52	--------------------------
+23/01/2016 12:34:52	Starting recognizing captcha...
+23/01/2016 12:34:52	Image file: captcha.png
+23/01/2016 12:35:44	Captcha code is: 95353
+23/01/2016 12:35:44	Sending POST web request to https://www.alpari.ru/ru/login/
+23/01/2016 12:35:44	Cookies to send: 
+23/01/2016 12:35:44	--------------------------
+23/01/2016 12:35:44	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:44	Cookie: ---> sid=ecj7i1j8nr1lmo5jqk8esfj8m3
+23/01/2016 12:35:44	--------------------------
+23/01/2016 12:35:44	Post Data to send: 
+23/01/2016 12:35:44	successUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F&login=info%40anatolio.pro&password=yeK2zQo45b&send=&imgcaptcha=95353
+23/01/2016 12:35:45	Cookies updated: 
+23/01/2016 12:35:45	--------------------------
+23/01/2016 12:35:45	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:45	Cookie: ---> sid=jrf3vgarl39se6ks8i3evprhi3
+23/01/2016 12:35:45	--------------------------
+23/01/2016 12:35:45	Sending web request to https://my.alpari.ru/ru/
+23/01/2016 12:35:45	Cookies to send: 
+23/01/2016 12:35:45	--------------------------
+23/01/2016 12:35:45	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:45	Cookie: ---> sid=jrf3vgarl39se6ks8i3evprhi3
+23/01/2016 12:35:45	--------------------------
+23/01/2016 12:35:46	Cookies updated: 
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:46	Cookie: ---> sid=
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Not logged in
+23/01/2016 12:35:46	FAILED TO LOG IN. Here is the response from the server: 
+23/01/2016 12:35:46	------------------------------------------------------------
+23/01/2016 12:35:46	<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="refresh" content="1;url=https://www.alpari.ru/ru/login/" />
+
+        <title>Redirecting to https://www.alpari.ru/ru/login/</title>
+    </head>
+    <body>
+        Redirecting to <a href="https://www.alpari.ru/ru/login/">https://www.alpari.ru/ru/login/</a>.
+    </body>
+</html>
+23/01/2016 12:35:46	------------------------------------------------------------
+23/01/2016 12:35:46	Error logging to website
+23/01/2016 12:35:46	Alpari client starting!
+23/01/2016 12:35:46	Cookies imported: 
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:46	Cookie: ---> sid=
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Sending web request to https://my.alpari.ru/ru/
+23/01/2016 12:35:46	Cookies to send: 
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:46	Cookie: ---> sid=
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Cookies updated: 
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:46	Cookie: ---> sid=
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Not logged in
+23/01/2016 12:35:46	Starting the web login process
+23/01/2016 12:35:46	Sending web request to https://www.alpari.ru/ru/login/
+23/01/2016 12:35:46	Cookies to send: 
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:46	Cookie: ---> sid=
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Cookies not updated
+23/01/2016 12:35:46	Need to download and recognize captcha before login
+23/01/2016 12:35:46	Downloading...
+23/01/2016 12:35:46	URL:	https://www.alpari.ru/ru/login/captcha/
+23/01/2016 12:35:46	Save to:	captcha.png
+23/01/2016 12:35:46	Sending web request to https://www.alpari.ru/ru/login/captcha/
+23/01/2016 12:35:46	Cookies to send: 
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:46	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:46	Cookie: ---> sid=
+23/01/2016 12:35:46	--------------------------
+23/01/2016 12:35:47	Cookies not updated
+23/01/2016 12:35:47	Starting recognizing captcha...
+23/01/2016 12:35:47	Image file: captcha.png
+23/01/2016 12:35:57	Captcha code is: 43538
+23/01/2016 12:35:57	Sending POST web request to https://www.alpari.ru/ru/login/
+23/01/2016 12:35:57	Cookies to send: 
+23/01/2016 12:35:57	--------------------------
+23/01/2016 12:35:57	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:57	Cookie: ---> sid=
+23/01/2016 12:35:57	--------------------------
+23/01/2016 12:35:57	Post Data to send: 
+23/01/2016 12:35:57	successUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F&login=info%40anatolio.pro&password=yeK2zQo45b&send=&imgcaptcha=43538
+23/01/2016 12:35:58	Cookies updated: 
+23/01/2016 12:35:58	--------------------------
+23/01/2016 12:35:58	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:58	Cookie: ---> sid=ulpmcuqftg7sg0idjfvuei6kn5
+23/01/2016 12:35:58	--------------------------
+23/01/2016 12:35:58	Sending web request to https://my.alpari.ru/ru/
+23/01/2016 12:35:58	Cookies to send: 
+23/01/2016 12:35:58	--------------------------
+23/01/2016 12:35:58	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:58	Cookie: ---> sid=ulpmcuqftg7sg0idjfvuei6kn5
+23/01/2016 12:35:58	--------------------------
+23/01/2016 12:35:58	Cookies updated: 
+23/01/2016 12:35:58	--------------------------
+23/01/2016 12:35:58	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:35:58	Cookie: ---> sid=
+23/01/2016 12:35:58	--------------------------
+23/01/2016 12:35:58	Not logged in
+23/01/2016 12:35:58	FAILED TO LOG IN. Here is the response from the server: 
+23/01/2016 12:35:58	------------------------------------------------------------
+23/01/2016 12:35:58	<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="refresh" content="1;url=https://www.alpari.ru/ru/login/" />
+
+        <title>Redirecting to https://www.alpari.ru/ru/login/</title>
+    </head>
+    <body>
+        Redirecting to <a href="https://www.alpari.ru/ru/login/">https://www.alpari.ru/ru/login/</a>.
+    </body>
+</html>
+23/01/2016 12:35:58	------------------------------------------------------------
+23/01/2016 12:35:58	Error logging to website
+23/01/2016 12:36:08	Not connected, reconnecting
+23/01/2016 12:36:09	Alpari client starting!
+23/01/2016 12:36:09	Cookies imported: 
+23/01/2016 12:36:09	--------------------------
+23/01/2016 12:36:09	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:36:09	Cookie: ---> sid=
+23/01/2016 12:36:09	--------------------------
+23/01/2016 12:36:09	Sending web request to https://my.alpari.ru/ru/
+23/01/2016 12:36:09	Cookies to send: 
+23/01/2016 12:36:09	--------------------------
+23/01/2016 12:36:09	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:36:09	Cookie: ---> sid=
+23/01/2016 12:36:09	--------------------------
+23/01/2016 12:36:10	Cookies updated: 
+23/01/2016 12:36:10	--------------------------
+23/01/2016 12:36:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:36:10	Cookie: ---> sid=
+23/01/2016 12:36:10	--------------------------
+23/01/2016 12:36:10	Not logged in
+23/01/2016 12:36:10	Starting the web login process
+23/01/2016 12:36:10	Sending web request to https://www.alpari.ru/ru/login/
+23/01/2016 12:36:10	Cookies to send: 
+23/01/2016 12:36:10	--------------------------
+23/01/2016 12:36:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:36:10	Cookie: ---> sid=
+23/01/2016 12:36:10	--------------------------
+23/01/2016 12:36:10	Cookies not updated
+23/01/2016 12:36:10	Need to download and recognize captcha before login
+23/01/2016 12:36:10	Downloading...
+23/01/2016 12:36:10	URL:	https://www.alpari.ru/ru/login/captcha/
+23/01/2016 12:36:10	Save to:	captcha.png
+23/01/2016 12:36:10	Sending web request to https://www.alpari.ru/ru/login/captcha/
+23/01/2016 12:36:10	Cookies to send: 
+23/01/2016 12:36:10	--------------------------
+23/01/2016 12:36:10	Cookie: ---> successLoginUrl=https%3A%2F%2Fmy.alpari.ru%2Fru%2F
+23/01/2016 12:36:10	Cookie: ---> sid=
+23/01/2016 12:36:10	--------------------------
+23/01/2016 12:36:11	Cookies not updated
+23/01/2016 12:36:11	Starting recognizing captcha...
+23/01/2016 12:36:11	Image file: captcha.png

@@ -1,0 +1,11 @@
+03/02/2016 23:08:51	Alpari client starting!
+03/02/2016 23:08:51	Sending web request to https://my.alpari.ru/ru/
+03/02/2016 23:08:54	Logged in
+03/02/2016 23:08:54	Sending web request to https://my.alpari.ru/ru/platforms/binarytrader/
+03/02/2016 23:08:54	Token: 7f2534fdc2988a90532f99184070138a5cf78f0b
+03/02/2016 23:08:54	CONNECTION CLOSED
+03/02/2016 23:08:57	
+**********************************************
+Alpari Websocket connected!!!
+**********************************************
+03/02/2016 23:08:57	Setting dictionary
